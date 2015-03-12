@@ -1,8 +1,10 @@
-#
+
 # Removing stuttered forecasts ("de-stuttering")
 #
 
+
 start <- Sys.time()
+print("De-stuttering Started")
 
 # Sort trade variables by question and time
 ord <- order(qit,tat)

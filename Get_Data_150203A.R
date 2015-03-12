@@ -92,8 +92,8 @@ pr<-read.csv("person_report.csv")
 lb<-read.csv("leaderboard_report.csv")
 
 ##   Reading in incentive questions
-setAData <- read.csv("cat19questionA.csv")
-setBData <- read.csv("cat20questionA.csv")
+setAData <- read.csv("cat19questionB.csv")
+setBData <- read.csv("cat20questionB.csv")
 
 
 

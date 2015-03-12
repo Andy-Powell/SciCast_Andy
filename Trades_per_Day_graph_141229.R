@@ -36,7 +36,7 @@ plot(days,nt^(1/2),type="l",lty=2,lwd=1,col=rgb(0.95,0,0),xaxt="n",yaxt="n",ylim
  text(160,300^(1/2),"All forecasts",col=rgb(0.95,0,0))
  text(160,-4^(1/2),"No-Impact forecasts",col=rgb(0,0,1))
  par(las=1)
- mtext('"De-Stuttered" Forecasts', outer=T,side=3,line=-2,font=1,col=rgb(0,0,0))
+ mtext('Trades Per Day', outer=T,side=3,line=-2,font=1,col=rgb(0,0,0))
 dev.off()
 
 duration <- as.double(difftime(Sys.time(),start,units="sec"))

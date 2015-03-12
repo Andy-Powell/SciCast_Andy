@@ -10,26 +10,9 @@ base <- tstart-28*24*60*60
 tstop <- tstart+floor(Sys.time()-tstart)-1*60*60
 days <- seq(1,ceiling(as.double(tstop - tstart)),1)
 
-# Pulling question_report into variables
-#qiq <- qn$question_id
-#caq <- as.POSIXct(qn$created_at)
-#grq <- as.character(qn$groups)
-#saq <- as.character(qn$resolution_at)
-#raq <- as.character(qn$pending_until)
-
-#qps <- qn$provisional_settled_at
-#pq <- qn$type
-#ls <- qn$relationships_source_question_id
-#ld <- qn$relationships_destination_question_id
-#ql <- qn$is_locked
-#qv <- qn$is_visible
-#orq <- qn$is_ordered; orq <- as.double(orq)
-#ctq <- qn$categories
-#rvq <- qn$resolution_value_array
-
 #qn$provisional_settled_at is start of comment period and qn$pending_until will be reused for event resolution (not question resolution/settlement)
-saq[saq=="None"] <- as.character(Sys.time()+10*365*60*60*24); saq <- as.POSIXct(saq)  # if not resolved sets resolved_at to 10 years from today
-raq[raq=="None"] <- as.character(Sys.time()+10*365*60*60*24); raq <- as.POSIXct(raq)  # if not resolved sets pending_unitl to today 10 years from today
+#saq[saq=="None"] <- as.character(Sys.time()+10*365*60*60*24); saq <- as.POSIXct(saq)  # if not resolved sets resolved_at to 10 years from today
+#raq[raq=="None"] <- as.character(Sys.time()+10*365*60*60*24); raq <- as.POSIXct(raq)  # if not resolved sets pending_unitl to today 10 years from today
 
 tpq <- rep(0,length(qiq))          # creates vector of numeric values representing question type
 tpq[pq=="binary"] <- 2             # old - uses type not clasification.  Does it handle ordered & Scalar?

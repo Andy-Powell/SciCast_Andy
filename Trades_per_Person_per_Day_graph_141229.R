@@ -23,7 +23,7 @@ plot(days,nt.p,type="l",lwd=1,col=rgb(0.99,0.6,0.6),xaxt="n",yaxt="n",ylim=c(0,t
  lines(days,np^(1/2),lty=2,lwd=1,col=rgb(0.6,0.6,1))
   lines(smooth.spline(days[1:ts],smth(np[1:ts]^(1/2)),df=ceiling(ts/2),all.knots=T),lty=2,lwd=3,col=rgb(0,0,1))
  mtext("Forecasts per Day", outer=T,side=2,line=-1.5,font=1,col=rgb(0.95,0,0))
- mtext('based on "de-stuttered" forecasts', outer=T,side=3,line=-2,cex=0.75,font=1,col=rgb(0,0,0))
+ mtext('Trades per Person per Day', outer=T,side=3,line=-2,cex=0.75,font=1,col=rgb(0,0,0))
  par(las=2)
  axis(1,at=days,lab=label[1:length(days)])
  axis(2,at=c(0,2,seq(5,top,5)),lab=c(0,2,seq(5,top,5)))

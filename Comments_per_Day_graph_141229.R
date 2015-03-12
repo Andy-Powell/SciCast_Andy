@@ -44,6 +44,7 @@ par(mar=c(5,4,4,4))
 plot(days,nc,type="l",lwd=3,xaxt="n",ylim=c(0,max(nc)*1.25),ylab="Comments per Day",xlab="Date")
  par(las=2)
  axis(1,at=days,lab=label[1:length(days)])
+mtext('Comments per Day', outer=T,side=3,line=-2,cex=0.75,font=1,col=rgb(0,0,0))
 dev.off()
 
 duration <- as.double(difftime(Sys.time(),start,units="sec"))

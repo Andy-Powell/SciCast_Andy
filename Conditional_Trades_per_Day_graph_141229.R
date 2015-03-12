@@ -30,7 +30,7 @@ plot(days,ntc,type="l",lwd=1,col=rgb(0.99,0.6,0.6),xaxt="n",ylim=c(0,ceiling(max
  axis(4,at=seq(0,ceiling(max(nq)/6),10),lab=seq(0,ceiling(max(nq)/6),10)*6)
  par(las=0)
  mtext("Questions per Day", outer=T,side=4,line=-1.5,font=1,col=rgb(0,0,1))
- mtext('based on "de-stuttered" forecasts', outer=T,side=3,line=-2,cex=0.75,font=1,col=rgb(0,0,0))
+ mtext('Conditional Trades per Day', outer=T,side=3,line=-2,cex=0.75,font=1,col=rgb(0,0,0))
  text(40,30,"Open Questions",col=rgb(0,0,1),cex=0.9)
  text(40,12,"Linked Questions",col=rgb(0,0,1),cex=0.9)
  text(40,5.5,"Conditional Forecasts on Linked Questions",col=rgb(0.95,0,0),cex=0.9)

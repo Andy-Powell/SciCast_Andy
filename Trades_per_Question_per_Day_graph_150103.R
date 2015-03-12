@@ -38,7 +38,7 @@ plot(days,nt.q,type="l",lwd=1,col=rgb(0.99,0.6,0.6),xaxt="n",ylim=c(0,ceiling(ma
  axis(4,at=seq(0,ceiling(max(nq)/24),2.5),lab=seq(0,ceiling(max(nq)/24),2.5)*24)
  par(las=0)
  mtext("Questions per Day", outer=T,side=4,line=-1.5,font=1,col=rgb(0,0,1))
- mtext('based on "de-stuttered" forecasts', outer=T,side=3,line=-2,cex=0.75,font=1,col=rgb(0,0,0))
+ mtext('Trades per Question per Day', outer=T,side=3,line=-2,cex=0.75,font=1,col=rgb(0,0,0))
  text(65,10.5,"Open Questions",col=rgb(0,0,1),cex=0.9)
  text(65,6.5,"Active Questions",col=rgb(0,0,1),cex=0.9)
  text(65,0.75,"Forecasts per Active Question",col=rgb(0.95,0,0),cex=0.9)
