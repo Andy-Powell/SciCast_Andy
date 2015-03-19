@@ -107,8 +107,8 @@ act<-read.csv("tradesPerDay 150207.csv")
 
 ##   Reading in incentive questions
 setAData <- read.csv("cat19questionB.csv")
-setBData <- read.csv("cat20questionB.csv")
-
+setBData <- read.csv("cat20questionA.csv")
+setBDataQ4 <- read.csv("cat20questionB.csv")
 
 #### Getting basic data
 # trade_history_report
@@ -118,7 +118,7 @@ tat <- th$traded_at; tat <- as.Date(tat); tat <- as.POSIXct(th$traded_at)
 nvt <- th$new_value_list
 ovt <- th$old_value_list
 ast <- th$serialized_assumptions
-print(c("0", length(ast)))
+#print(c("0", length(ast)))
 apot <- th$assets_per_option
 tit <- th$trade_id
 cit <- th$choice_index
@@ -158,6 +158,7 @@ cap <- as.POSIXct(pr$created_at)
 # Incentinve questions
 setAQstns <- sort(as.character(setAData$question_id))
 setBQstns <- sort(as.character(setBData$question_id))
+setBQstnsQ4 <- sort(as.character(setBDataQ4$question_id))
 
 # Activity Data
 actQestnId <- act$quest_id

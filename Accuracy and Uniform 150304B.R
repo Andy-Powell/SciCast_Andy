@@ -17,7 +17,7 @@ base <- tstart-28*24*60*60
 tstop <- Sys.time()
 days <- seq(1,ceiling(as.double(tstop - tstart)),1)
 
-source("Incentive Selection.R")
+source("Incentive Selection 150312.R")
 #
 # Removing admin accounts and activity (Data_cleaning)
 # Match to Steve's list!
@@ -206,10 +206,6 @@ asqt[is.na(asqt)==T] <- -1                               # if no seirialized _as
 asot[is.na(asot)==T] <- -1                               # if no seirialized _assumtions option replace NAs wiht -1     => for non-conditional trades  asqt & asot = -1
 
 ###########
-
-
-# For Steve Stratman, DON'T remove stuttered forecasts. (no "de-stuttering")
-
 # Reordering to simplify other operations later (Analysis_Setup).
 ord <- order(qit,tat)
 tat<-tat[ord]; tit<-tit[ord]; pit<-pit[ord]; qit<-qit[ord]; nvt<-nvt[ord]; ovt<-ovt[ord]; ast<-ast[ord]; apot<-apot[ord]
@@ -218,7 +214,6 @@ cit<-cit[ord]; rst<-rst[ord]; mdt<-mdt[ord]; asqt<-asqt[ord]; asot<-asot[ord]
 #
 # Market Accuracy
 # Binary and ordered means continuous; it makes no difference to BS, but it does make a difference on "poco" and "hit".
-# ONLY binary for Stratman.
 
 # Find resolved questions (Anaysis_Setup)     ##### Not used for input to anything else? ####
 '%ni%' <- Negate('%in%')

@@ -9,7 +9,7 @@
 ##
 #####################################################
 
-# setwd("C:/Users/Walter/Documents/GMU/SciCast/Analysis")
+# #setwd("C:/Users/Walter/Documents/GitHub/SciCast_Andy/SciCast_Andy")
 
 print("Use Stored regression data? (y,n)")
 if (readline()=="n") {

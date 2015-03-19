@@ -2,8 +2,8 @@ start <- Sys.time()
 
 rstart <-as.POSIXlt("2013-12-01 00:00:00 EST")
 #open <- ceiling(as.double(as.POSIXlt("2014-12-31 00:00:00 EDT")-rstart)/30.5)
-open <- ceiling(as.double(as.POSIXlt("2015-02-28 00:00:00 EDT")-rstart)/30.5)              #need to automate
-month <-c("Dec","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec","Jan","Feb")   #need to automate
+open <- ceiling(as.double(as.POSIXlt("2015-03-31 00:00:00 EDT")-rstart)/30.5)              #need to automate
+month <-c("Dec","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec","Jan","Feb","Mar")   #need to automate
 user <- levels(factor(pit)); first <-last <-rep(0,length(user))
 for (i in 1:length(user)) {
  first[i] <-as.double(min(tat[pit==user[i]])-rstart)/30.5; last[i] <-as.double(max(tat[pit==user[i]])-rstart)/30.5

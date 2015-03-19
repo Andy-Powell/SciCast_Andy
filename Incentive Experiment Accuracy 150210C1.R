@@ -5,10 +5,12 @@
 ## Some had failed to carry forward; this seems to have been the main source of
 ## the discrepancy between our previous scores and Steve's.
 
-# setwd("C:/Users/Walter/Documents/GMU/SciCast/Analysis")
+#setwd("C:/Users/Walter/Documents/GitHub/SciCast_Andy/SciCast_Andy")
+#source("Incentive Experiment Accuracy 150210C1.R")
+
 # First run Get_Data.R.
 source("Get_Data_150203lb.R")
-source("Incentive Selection 150210.R")
+source("Incentive Selection 150312.R")
 
 # Removing admin accounts and activity (Data_cleaning)
 # Match to Steve's list!
@@ -280,7 +282,7 @@ for (date in 1:length(days)) {
 }
 
 
-source("Incentive Accuracy Active 141209B.R")
+source("Incentive Accuracy Active 141209.R")
 source("Incentive Accuracy Control 141209B.R")
 #source("ULinOP_150122C.R")
 

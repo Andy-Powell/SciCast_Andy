@@ -1,10 +1,11 @@
+###########################################################
 ## SciCast Brier Scores
 ## Imitation of Stratman's method for binary questions
 ## 
 ## Modified 2014-12-22 by kolson to fix a bug in carrying forward old estimates:
 ## Some had failed to carry forward; this seems to have been the main source of
 ## the discrepancy between our previous scores and Steve's.
-
+###########################################################
 #
 # First run Get_Data.R.
 
@@ -25,9 +26,7 @@ for (q in 1:length(rsq)) {
   ra[q] <- raq[qiq==rsq[q]]
   raqExp[q] <- raq[qiq==rsq[q]]
 # Uses as question start date the first day on which there  was a valid safe mode forecast placed!
-  #astart <- min(tat[qit==rsq[q] &mdt==1 &asqt<0])
   astart <- min(tat[qit==rsq[q] &asqt<0])
-  #w <- which(tat%in%tat[tat>=expStart &tat<expStop &qit==rsq[q] &qit%in%incentiveSet &asqt%in%c(-1,rsq) &asot==roqat])
   w <- which(tat%in%tat[tat>=expStart &tat<expStop &qit==rsq[q] &asqt%in%c(-1,rsq) &asot==roqat])
   time <- c(tat[w],ra[q]); or <- order(time); time <- time[or]
   lt <- length(time); nfqu[q] <- lt-1

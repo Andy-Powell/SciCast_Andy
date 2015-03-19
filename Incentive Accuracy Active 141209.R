@@ -39,13 +39,15 @@ for (q in 1:length(rsqAct)) {
   tmp1 <- as.double(strsplit(strsplit(strsplit(as.character(rvq[qiq==rsqAct[q]]),"[",fixed=T)[[1]][2],"]",fixed=T)[[1]],",")[[1]])
   ac <- acd <- act <- rep(2,lt); pocot <- hitt <- rep(0,lt)
 # Pretend the first trade came after 1 hour because we don't have a record of how long the questions were paused after being published.
-  acd[1] <- time[1]-base -(time[1]-60*60-base)
+  #acd[1] <- time[1]-base -(time[1]-60*60-base)
+  acd[1] <- difftime(time[1],expStart)
   pocot[1] <- pocou[q] <- 1/length(tmp1)
 
 if (lt>1) {
     for (t in 1:(lt-1)) {
     acd[t+1] <- time[t+1]-base -(time[t]-base)
-    tmp2 <- as.double(strsplit(as.vector(nvt[w])[or[t]],",")[[1]])
+    #tmp2 <- as.double(strsplit(as.vector(nvt[w])[or[t]],",")[[1]])
+    tmp2 <- as.double(strsplit(as.vector(ovt[w])[or[1]],",")[[1]])
     b <- which(tmp1==max(tmp1))
     }
   }
@@ -129,7 +131,7 @@ if (lt>1) {
         if (mean(which(tmp2==max(tmp2)))%in%b) {hitt[t+1] <- 1}
       }
     }
-    #print (c("scale",tmp1,"-", act[t]))
+    #print (c("shares",tmp1,"-", act[t]))
   }
 
   acquAct[q] <- sum(act*acd)/sum(acd)

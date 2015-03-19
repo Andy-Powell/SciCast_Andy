@@ -26,3 +26,4 @@ for (q in activityData$quest_id) {
   
 }
 
+write.table(data.frame(rsq,raqExp,acqu,acop,ru,rf,rc),file="Brier Scores All Qestions.csv",sep=",",append=F,col.names=c("Question_Number","Resolution_Date","SciCast_Brier_Score","ULinop_Brier_Score","Number_of_Users","Number_of_Forecasts","Number_of_Comments"),row.names=F)

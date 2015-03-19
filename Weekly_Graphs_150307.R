@@ -1,6 +1,7 @@
 ##
+#setwd("C:/Users/Walter/Documents/GitHub/SciCast_Andy/SciCast_Andy")
+#source("Weekly_Graphs_150307.R")
 
-# setwd("C:/Users/Walter/Documents/GMU/SciCast/Analysis")
 
 source("Get_Data_150203lb.R")
 source("Data_Cleaning_150106.R")
@@ -17,7 +18,7 @@ source("Trades_per_Person_per_Day_graph_141229.R")
 source("User_retention_graph_150103_JAN15.R")
 source("Weighted_Forecasts_150110.R")
 source("ULinOP_150128.R")
-source("Accuracy and Uniform 150304B Reset.R")
+source("Accuracy and Uniform 150304B  Reset.R")
 source("Brier Score vs Choices graph 150304A.R")
 #source("Accuracy_and_2_Benchmarks_with_Graphs_150110.R")
 #source("Accuracy_and_2_Benchmarks_with_Graphs_mod_grouped_bar_graph.R")

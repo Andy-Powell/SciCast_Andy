@@ -12,7 +12,7 @@ for (i in 1:length(pip)) {
  qpu[i] <- length(unique(qit[pit==pip[i]]))
 }
 date <- Sys.Date()                                                        #Adding Date to title
-title <- paste("Activity_per_Person (3 or more trades) ",date,".png", collapse="")        #Expanding title name
+title <- paste("Activity_per_Person ",date,".png", collapse="")        #Expanding title name
 
 br <- 2^seq(0,11,1)
 png(title, width = 3600, height = 3600, pointsize = 18, res = 360)

@@ -1,8 +1,7 @@
 start <- Sys.time()
 print("Analysis Setup started")
 
-print("Use all data? (y/n)")                                            # "n" lets you bypass downloading files to save time
-allData <- readline()
+source("Incentive Selection 150312.R")
 
 
 tstart <- as.POSIXct("2013-11-25 00:00:00 EST")

@@ -9,6 +9,9 @@
 #
 # First run Get_Data.R.
 
+startGen <- Sys.time() 
+print("Data Generation started")
+
 tstart <- as.POSIXct("2013-11-25 00:00:00 EST")
 base <- tstart-28*24*60*60
 # For Steve Stratman
@@ -16,7 +19,7 @@ base <- tstart-28*24*60*60
 tstop <- Sys.time()
 days <- seq(1,ceiling(as.double(tstop - tstart)),1)
 
-source("Incentive Selection.R")
+source("Incentive Selection 150312.R")
 #
 # Removing admin accounts and activity (Data_cleaning)
 # Match to Steve's list!
@@ -217,3 +220,6 @@ for (j in 1:length(qiq)) {                                         # For all que
   gq[j,1:(length(temp))] <- temp                                   # putting the vector into array gq           #### WHy is gq different from gpq                   
  }
 }
+
+duration <- as.double(difftime(Sys.time(),startGen,units="sec"))   #reports time to retrieve files
+print (c("Data Generation Complete", duration))

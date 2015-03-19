@@ -1,14 +1,18 @@
+
+###########################################################
 ## SciCast Brier Scores
 ## Imitation of Stratman's method for binary questions
 ## 
 ## Modified 2014-12-22 by kolson to fix a bug in carrying forward old estimates:
 ## Some had failed to carry forward; this seems to have been the main source of
 ## the discrepancy between our previous scores and Steve's.
+##############################################################
+
 
 # setwd("C:/Users/Walter/Documents/GMU/SciCast/Analysis")
 # First run Get_Data.R.
 source("Get_Data_150203lb.R")
-source("Incentive Selection 150212.R")
+source("Incentive Selection 150312.R")
 
 # Removing admin accounts and activity (Data_cleaning)
 # Match to Steve's list!
@@ -212,7 +216,6 @@ cit<-cit[ord]; rst<-rst[ord]; mdt<-mdt[ord]; asqt<-asqt[ord]; asot<-asot[ord]
 #
 # Market Accuracy
 # Binary and ordered means continuous; it makes no difference to BS, but it does make a difference on "poco" and "hit".
-# ONLY binary for Stratman.
 
 # Find resolved questions (Anaysis_Setup)     ##### Not used for input to anything else? ####
 '%ni%' <- Negate('%in%')
