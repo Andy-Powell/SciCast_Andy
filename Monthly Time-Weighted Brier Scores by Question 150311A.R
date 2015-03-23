@@ -85,40 +85,39 @@ for (m in 2:length(month)) {
       tmp2 <- NA
       #ra[q] <- raqNorm[qiq==rsqNorm[q]]
       #ra[q] <- min(raqNorm[qiq==rsqNorm[q]],month[m])
-      ra[q] <- min(saq[qiq==rsqNorm[q]],month[m])     ## nor raq, saq is resoluton date
+      ra[q] <- min(saq[qiq==rsqNorm[q]],month[m])     ## not raq, saq is resoluton date.  This is used to calcuate the weight of the last trade in the month
       #raqExp[q] <- raq[qiq==rsqNorm[q]]
       # Uses as question start date the first day on which there  was a valid safe mode forecast placed!
       astart <- min(tatMonth[qitMonth==rsqNorm[q] &asqtMonth<0])
       #w <- which(tatMonth%in%tatMonth[tatMonth>=expStart &tatMonth<expStop &qitMonth==rsqNorm[q] &asqtMonth%in%c(-1,rsqNorm) &asotMonth==roqat])
       w <- which(tatMonth%in%tatMonth[tatMonth>=expStart &tatMonth<expStop &qitMonth==rsqNorm[q] &asqtMonth%in%c(-1,rsqNorm) &asotMonth==roqatMonth])
+      
       time <- c(tatMonth[w],ra[q]); or <- order(time); time <- time[or]
       lt <- length(time); nfqu[q] <- lt-1
       tmp1 <- as.double(strsplit(strsplit(strsplit(as.character(rvq[qiq==rsqNorm[q]]),"[",fixed=T)[[1]][2],"]",fixed=T)[[1]],",")[[1]])
-#      lastNvt[q] <- rep(2,length(tmp1))
       ac <- acd <- act <- rep(2,lt); pocot <- hitt <- rep(0,lt)
       # Pretend the first trade came after 1 hour because we don't have a record of how long the questions were paused after being published.
       #acd[1] <- time[1]-base -(month[m]-base)
       #acd[1] <- difftime(time[1], month[m-1])
-      acd[1] <- difftime(time[1], month[m-1],units="days")   #########  changed
+      ## weight of market Brier score (last forecast of previous month) is the time until the fors trade of this month
+      acd[1] <- difftime(time[1], month[m-1],units="days")   #########  changed-include Units="days" might make a differnece
       pocot[1] <- pocou[q] <- 1/length(tmp1)
       
       print(c(m,q,rsqNorm[q],clq[qiq==rsqNorm[q]],lt))
       #print(c("diff-",difftime(month[m],raq[qiq==rsqNorm[q]])))
       #print(c("lastNvt1[q]-",lastNvt[q,1:length(tmp1)]))
       #print(is.na(lastNvt[q,][1]))
-      if (lt<2) {
+      if (lt<2) {                                                     # not trades in current month for current question
           if (difftime(month[m],raq[qiq==rsqNorm[q]])>0) {            # if pending_until is later than end of month....
             #print("1")
-            lastNvt[q,1] <- NA
-            monthlyBrier[q,m] <- NA                                                 # act <- NA  => acqu <- NA
-            } else if (lastNvt[q,][1]==2) {
+            lastNvt[q,1] <- NA                                        # lastNvt not default or previous nvt
+            monthlyBrier[q,m] <- NA                                   # Brier score is NA             
+            } else if (lastNvt[q,][1]==2) {                           # if lastNvt is default ("2) => no Brier yet calcualted for question...
                   #print("3")
-                  lastNvt[q,1] <- 2
-                  monthlyBrier[q,m] <- NA
+                  lastNvt[q,1] <- 2                                   # and lastNvt remains defauslt
+                  monthlyBrier[q,m] <- NA                             # and Brier score is NA
                 } else {
-                  monthlyBrier[q,m] <- acqu[q] <- monthlyBrier[q,m-1]
-#                  act <- lastNvt[q,1:(length(tmp1))]                                      # and no data for current month => forecast = old forecast
-#                  acd <- length(tmp1)
+                  monthlyBrier[q,m] <- acqu[q] <- monthlyBrier[q,m-1] # no trades for this question this month, Brier is the same as last month
                   #print(c("2-",lastNvt[q,1:(length(tmp))]))           
                 }
         }
@@ -128,8 +127,8 @@ for (m in 2:length(month)) {
       if (lt>1) {
        source("Incentive Accuracy Mechanics Normal 150221.R")
        for (l in 1:length(tmp2)){
-         lastNvt[q,l] <- tmp2[l]
-         monthlyBrier[q,m] <- acqu[q] <- sum(act*acd)/sum(acd)
+         lastNvt[q,l] <- tmp2[l]                                    # tmp2 is the nvt associated with the last forecast in the month
+         monthlyBrier[q,m] <- acqu[q] <- sum(act*acd)/sum(acd)      # act are the sums of squared errors and acd is the time weight
        }
       }
       

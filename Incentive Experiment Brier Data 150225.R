@@ -60,6 +60,7 @@ questionData$qnClass <- as.character(clqData)
 
 
 ###### Setting Set variable #####
+
 for (q in incentiveSet){
 tradeData$Set[tradeData$thQuestionId==q] <- "A"
 }
@@ -67,6 +68,8 @@ tradeData$Set[tradeData$thQuestionId==q] <- "A"
 for (q in controlSet){
 tradeData$Set[tradeData$thQuestionId==q] <- "B"
 }
+
+
 
 ##### Setting Activity Variable #####
 tradeData$Active[tradeData$tradedAt<expChange1 & tradeData$Set=="A"] <- "Y"
@@ -81,25 +84,27 @@ tradeData$Active[tradeData$tradedAt<expChange2 &tradeData$tradedAt>=expChange1 &
 tradeData$Active[tradeData$tradedAt>=expChange3 & tradeData$Set=="A"] <- "N"
 tradeData$Active[tradeData$tradedAt>=expChange3 & tradeData$Set=="B"] <- "Y"
 
-
+rsqNorm <- rsq
 
 for (t in 1:length(tatData)){
 #for (t in 1:5){
-  #print(tatData[t])
+  print(tatData[t])
   tradeData$thResolvedAt[t] <- raqData[qiqData==qitData[t]]
   tradeData$thResolveValue[t] <- as.character(rvqData[qiqData==qitData[t]])
   
   tmp1 <- as.double(strsplit(strsplit(strsplit(as.character(rvqData[qiqData==qitData[t]]),"[",fixed=T)[[1]][2],"]",fixed=T)[[1]],",")[[1]])
   qnClass[t] <- as.character(clqData[qiqData==qitData[t]])
   
+    
   source("Incentive Accuracy Mechanics Basic 150221.R")
   #print(brier[t])
   tradeData$thBrier[t] <- brier[t]
   
   tradeData$timeToRes[t] <- difftime(tradeData$thResolvedAt[t],tradeData$tradedAt[t],units="days")
 
-  
-  if (tradeData$Set[t]=="A") {
+  if (is.na(tradeData$Set[t])) {
+    firstActive[t] <- NA
+  } else if (tradeData$Set[t]=="A") {
    firstActive[t] <- as.POSIXct("2014-11-07")
   } else {
     firstActive[t] <- as.POSIXct("2014-12-07")

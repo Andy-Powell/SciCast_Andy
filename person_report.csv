@@ -1,24 +1,24 @@
 about_me,created_at,default_trade_preference,email_verified,groups,interests,is_active,num_trades,opt_out_email,referral_id,user_id,username,wants_admin_emails,wants_comment_emails,wants_daily_digest_emails,wants_market_alert_emails,wants_question_resolution_emails
-None,2013-11-17 10:37:23.921438,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,QuestionAdmin,RolesAdmin,BadgesAdmin,Study 2.1A,BannerAdmin",None,True,332,None,None,1,daggre_admin,True,False,False,False,True
+None,2013-11-17 10:37:23.921438,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,QuestionAdmin,RolesAdmin,BadgesAdmin,Study 2.1A,BannerAdmin",None,True,349,None,None,1,daggre_admin,True,False,False,False,True
 None,2013-11-17 10:40:07.291773,None,True,"Internal,User",,True,0,None,None,2,gbs_tester,True,False,False,False,True
-Root,2013-11-27 11:18:55.421822,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,QuestionAdmin,Johns Hopkins,BannerAdmin,TRADOC",,True,4,0,AAAS,3,bgoldfedder,True,False,False,False,True
-None,2013-11-27 11:40:19.424055,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,QuestionAdmin,RolesAdmin,BadgesAdmin,IEEE,Indiana University (Bloomington),Stanford University,BannerAdmin",,True,53,0,None,4,amsiegel,True,True,True,True,True
+Root,2013-11-27 11:18:55.421822,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,QuestionAdmin,Johns Hopkins,BannerAdmin,TRADOC",,True,7,0,AAAS,3,bgoldfedder,True,False,False,False,True
+None,2013-11-27 11:40:19.424055,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,QuestionAdmin,RolesAdmin,BadgesAdmin,IEEE,Indiana University (Bloomington),Stanford University,BannerAdmin",,True,51,0,None,4,amsiegel,True,True,True,True,True
 None,2013-11-27 12:56:00.067671,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,QuestionAdmin,BannerAdmin",,True,0,None,None,5,Inkling,True,False,False,False,True
 None,2013-11-27 16:16:44.386898,2,True,"Admin,User,Internal,UserAdmin,QuestionAdmin,RolesAdmin,BadgesAdmin,GroupsAdmin,IEEE,Duke University,Stanford University,TRADOC,IEEE_TRADOC","Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Tech,Global Change",True,57,None,None,6,Question Mark,True,False,False,False,True
-Personal (non-admin) account for the SciCast PI.,2013-11-27 16:31:18.111198,2,True,"Study 2.1A,George Mason University,Internal,User","Computational Sciences,Energy,Global Change",True,153,0,None,7,ctwardy,True,True,True,False,True
+Personal (non-admin) account for the SciCast PI.,2013-11-27 16:31:18.111198,2,True,"Study 2.1A,George Mason University,Internal,User","Computational Sciences,Energy,Global Change",True,156,0,None,7,ctwardy,True,True,True,False,True
 "Admin account used by the SciCast research team, usually the PI (Charles Twardy).",2013-11-27 17:02:45.811245,2,True,"Admin,User,Internal,UserAdmin,TradeAdmin,QuestionAdmin,RolesAdmin,BadgesAdmin,Study 2.1A,Study 2.1B,BannerAdmin,TRADOC,IEEE_TRADOC","Computational Sciences,Energy,Global Change",True,74,0,None,8,scicast_admin,True,True,True,False,True
 None,2013-11-30 15:13:26.771791,2,True,"Admin,User,Internal,UserAdmin,QuestionAdmin,Study 2.1A,George Mason University","Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,16,None,None,9,klaskey,True,False,False,False,True
 None,2013-11-30 17:20:46.875298,None,True,"Admin,User,Internal,UserAdmin,QuestionAdmin,RolesAdmin,BadgesAdmin",,True,3,None,None,10,Naveen Jay,True,False,False,False,True
 None,2013-11-30 18:01:50.608061,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,EmailAdmin,QuestionAdmin,RolesAdmin,BadgesAdmin,BannerAdmin",,True,0,None,None,11,ssmith,True,False,False,False,True
 None,2013-11-30 19:16:23.234915,None,True,"Internal,User","Business of Science and Technology,Computational Sciences,Engineered Technologies",True,0,None,None,12,RobinHanson,True,False,False,False,True
 None,2013-11-30 23:22:40.227996,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,RolesAdmin,BadgesAdmin,The University of Kansas,BannerAdmin","Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,27,None,None,13,jessiejury,True,False,False,False,True
-None,2013-12-01 07:23:52.869844,None,True,"Duke University,Study 2.1B,User","Biology & Medicine,Business of Science and Technology,Computational Sciences,Engineered Technologies,Global Change",True,795,1,None,14,Dopefer,True,False,False,False,True
+None,2013-12-01 07:23:52.869844,None,True,"Duke University,Study 2.1B,User","Biology & Medicine,Business of Science and Technology,Computational Sciences,Engineered Technologies,Global Change",True,782,1,None,14,Dopefer,True,False,False,False,True
 None,2013-12-01 09:35:59.733896,None,True,"Internal,User","Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,15,jason.matheny,True,False,False,False,True
 None,2013-12-01 11:16:29.097921,None,True,"Internal,User","Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy",True,0,0,None,16,philippe,True,False,False,False,True
 None,2013-12-02 08:39:38.688917,None,True,"Internal,User",,True,0,None,None,17,randazzese,True,False,False,False,True
 None,2013-12-02 11:23:37.661499,None,True,"Admin,User,Internal,UserAdmin,QuestionAdmin,BadgesAdmin,GroupsAdmin,IEEE",,False,15,1,None,18,dd64eb6c490543ef,True,False,False,False,True
 None,2013-12-02 12:33:04.905542,None,True,User,Engineered Technologies,True,0,None,None,19,landcolin,True,False,False,False,True
-None,2013-12-02 13:14:02.422656,2,True,"Study 2.1A,User","Agriculture,Biology & Medicine,Global Change",True,110,None,None,20,palexd,True,False,False,False,True
+None,2013-12-02 13:14:02.422656,2,True,"Study 2.1A,User","Agriculture,Biology & Medicine,Global Change",True,111,None,None,20,palexd,True,False,False,False,True
 None,2013-12-02 14:05:40.377706,None,True,User,"Biology & Medicine,Business of Science and Technology,Energy",True,0,None,None,21,gsolla,True,False,False,False,True
 None,2013-12-02 15:18:57.145350,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,22,brook568,True,False,False,False,True
 None,2013-12-02 16:57:45.960315,None,True,User,"Agriculture,Business of Science and Technology,Computational Sciences,Global Change",True,2,None,None,23,Scooby,True,False,False,False,True
@@ -43,7 +43,7 @@ None,2013-12-04 10:38:33.061148,None,True,User,"Agriculture,Biology & Medicine,B
 None,2013-12-04 10:41:01.209276,2,True,User,"Business of Science and Technology,Computational Sciences,Global Change",True,15,None,None,42,truth_wins,True,False,False,False,True
 None,2013-12-04 10:48:32.174656,None,True,User,"Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,96,None,None,43,seachelle53,True,False,False,False,True
 None,2013-12-04 11:00:41.164754,None,True,User,Business of Science and Technology,True,0,None,None,44,istorm,True,False,False,False,True
-None,2013-12-04 11:01:46.089844,2,True,"Study 2.1A,Stanford University,Harvard University,User","Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,7137,0,None,45,sflicht,True,True,True,True,True
+None,2013-12-04 11:01:46.089844,2,True,"Study 2.1A,Stanford University,Harvard University,User","Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,7169,0,None,45,sflicht,True,True,True,True,True
 None,2013-12-04 11:02:25.628343,None,True,User,"Business of Science and Technology,Computational Sciences,Energy,Global Change",True,0,None,None,46,codkaz,True,False,False,False,True
 None,2013-12-04 11:03:07.272000,2,True,User,"Business of Science and Technology,Computational Sciences,Engineered Technologies",True,4,None,None,47,apexx58,True,False,False,False,True
 None,2013-12-04 11:03:27.736846,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Energy,Global Change",True,7,None,None,48,mvende64,True,False,False,False,True
@@ -57,13 +57,13 @@ None,2013-12-04 11:39:32.921466,None,False,User,"Business of Science and Technol
 None,2013-12-04 11:45:15.290542,None,False,User,"Biology & Medicine,Business of Science and Technology,Computational Sciences",False,0,None,None,56,lartronics,True,False,False,False,True
 None,2013-12-04 12:13:13.485150,None,True,User,"Agriculture,Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,1,None,None,57,ahq41211,True,False,False,False,True
 None,2013-12-04 12:16:20.446265,None,True,User,"Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,58,Razour,True,False,False,False,True
-"I studied mathematics, and for my job, I lead a team of statisticians. I've worked in strategy consulting and predictive analytics in Chicago... I generally try to bet less than how confident I am, and I'll hedge against myself if I get a good opportunity...",2013-12-04 12:35:10.581257,2,True,User,"Business of Science and Technology,Global Change",True,3639,1,None,59,PrieurDeLaCoteD'Or,True,False,False,False,True
+"I studied mathematics, and for my job, I lead a team of statisticians. I've worked in strategy consulting and predictive analytics in Chicago... I generally try to bet less than how confident I am, and I'll hedge against myself if I get a good opportunity...",2013-12-04 12:35:10.581257,2,True,User,"Business of Science and Technology,Global Change",True,3651,1,None,59,PrieurDeLaCoteD'Or,True,False,False,False,True
 None,2013-12-04 12:38:01.948156,None,True,"Study 2.1A,Boston College,User","Agriculture,Biology & Medicine,Computational Sciences",True,54,None,None,60,Karenr1031@yahoo.com,True,False,False,False,True
 None,2013-12-04 12:55:36.423841,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,61,wjs265,True,False,False,False,True
 None,2013-12-04 13:04:22.920600,None,True,User,"Biology & Medicine,Business of Science and Technology,Computational Sciences",True,13,None,None,62,dschwarz,True,False,False,False,True
 None,2013-12-04 13:09:55.675111,None,True,"Internal,User",,True,1,None,None,63,tlevitt,True,False,False,False,True
 None,2013-12-04 14:21:00.761264,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Computational Sciences,Global Change",True,4,None,None,64,mbentz6,True,False,False,False,True
-None,2013-12-04 14:33:12.912519,None,True,"Study 2.1B,User","Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,11,None,None,65,GEMMA32,True,False,False,False,True
+None,2013-12-04 14:33:12.912519,None,True,"Study 2.1B,User","Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,10,None,None,65,GEMMA32,True,False,False,False,True
 None,2013-12-04 15:04:20.605752,None,True,User,"Business of Science and Technology,Computational Sciences,Engineered Technologies",True,1,None,None,66,brycesenz,True,False,False,False,True
 None,2013-12-04 15:14:21.509154,None,True,"Study 2.1A,User",Engineered Technologies,True,14,None,AAAS,67,starlooney,True,False,False,False,True
 None,2013-12-04 15:15:31.068524,None,True,User,"Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies",True,1,None,None,68,jonbernard,True,False,False,False,True
@@ -99,7 +99,7 @@ None,2013-12-06 00:13:20.704044,None,True,User,,True,0,None,None,97,Sandy,True,F
 None,2013-12-06 03:51:12.917339,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Engineered Technologies",True,0,None,None,98,aargh42,True,False,False,False,True
 None,2013-12-06 08:28:44.433151,None,True,User,Computational Sciences,True,0,None,None,99,soteri0s,True,False,False,False,True
 None,2013-12-06 08:30:56.839767,None,True,User,Computational Sciences,True,0,None,None,100,soteris,True,False,False,False,True
-None,2013-12-06 16:23:20.879439,None,True,User,"Computational Sciences,Engineered Technologies",True,175,None,None,101,danutile,True,False,False,False,True
+None,2013-12-06 16:23:20.879439,None,True,User,"Computational Sciences,Engineered Technologies",True,187,None,None,101,danutile,True,False,False,False,True
 None,2013-12-06 17:01:04.925294,None,True,"Admin,User,Internal,UserAdmin,QuestionAdmin,Study 2.1A,Study 2.1B,IEEE","Business of Science and Technology,Energy",True,3,None,None,102,sgravette,True,False,False,False,True
 None,2013-12-06 17:49:37.302936,None,True,User,"Biology & Medicine,Chemistry,Computational Sciences,Energy,Global Change",True,0,None,None,103,MSJohnson90,True,False,False,False,True
 None,2013-12-06 19:29:15.483602,None,True,User,"Biology & Medicine,Computational Sciences,Energy,Engineered Technologies,Global Change",True,1,None,None,104,antidentite,True,False,False,False,True
@@ -174,7 +174,7 @@ interested in a variety of things.  Expert in nothing,2013-12-17 16:26:56.329413
 None,2013-12-17 16:37:09.269034,None,True,User,"Business of Science and Technology,Computational Sciences,Energy",True,1,None,None,173,HardBasis4,True,False,False,False,True
 None,2013-12-17 16:37:51.068004,None,True,User,"Business of Science and Technology,Computational Sciences,Engineered Technologies",True,0,None,None,174,Int21h,True,False,False,False,True
 None,2013-12-17 16:38:38.057016,None,True,"Study 2.1A,User",,True,6,None,None,175,scigimp,True,False,False,False,True
-"Prediction is very difficult, especially about the future.",2013-12-17 16:39:57.416783,2,True,"George Mason University,California Institute of Technology (Cal Tech),Study 2.1B,Stanford University,University of California, Berkeley,User","Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,3540,0,None,176,dvasya,True,True,True,True,True
+"Prediction is very difficult, especially about the future.",2013-12-17 16:39:57.416783,2,True,"George Mason University,California Institute of Technology (Cal Tech),Study 2.1B,Stanford University,University of California, Berkeley,User","Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,3616,0,None,176,dvasya,True,True,True,True,True
 None,2013-12-17 16:43:30.009828,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,1,None,None,177,mpopovic,True,False,False,False,True
 None,2013-12-17 16:49:03.515618,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,178,uberlisa,True,False,False,False,True
 None,2013-12-17 16:49:28.488140,None,True,User,"Business of Science and Technology,Computational Sciences,Engineered Technologies,Global Change",True,1,1,None,179,amc,True,False,False,False,True
@@ -274,8 +274,8 @@ None,2014-01-03 14:22:26.556374,None,True,User,"Biology & Medicine,Business of S
 None,2014-01-03 14:44:53.849661,None,True,User,"Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy,Global Change",True,2,None,None,273,Garrett,True,False,False,False,True
 None,2014-01-03 14:57:14.743434,None,True,"Study 2.1B,User","Biology & Medicine,Business of Science and Technology,Global Change",True,15,None,None,274,Germanicus,True,False,False,False,True
 None,2014-01-03 14:59:50.525716,None,True,"Study 2.1A,User",,True,8,None,None,275,dlevinson,True,False,False,False,True
-None,2014-01-03 15:02:37.588621,2,True,"Stanford University,User","Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,440,None,None,276,peaigr,True,False,False,False,True
-None,2014-01-03 15:09:31.989938,None,True,User,"Energy,Global Change",True,6,None,None,277,rodneylbrownjr,True,False,False,False,True
+None,2014-01-03 15:02:37.588621,2,True,"Stanford University,User","Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,441,None,None,276,peaigr,True,False,False,False,True
+None,2014-01-03 15:09:31.989938,None,True,User,"Energy,Global Change",True,6,0,None,277,rodneylbrownjr,True,False,False,False,True
 None,2014-01-03 15:11:17.236281,None,True,"University of Illinois (Urbana-Champaign),User","Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,4,None,None,278,yuan10,True,False,False,False,True
 None,2014-01-03 15:47:14.629073,None,True,User,"Biology & Medicine,Business of Science and Technology,Computational Sciences,Engineered Technologies",True,0,None,None,279,tbatty,True,False,False,False,True
 None,2014-01-03 15:49:33.082049,None,True,User,Computational Sciences,True,0,None,None,280,mbrubeck,True,False,False,False,True
@@ -294,7 +294,7 @@ None,2014-01-03 21:58:57.051299,None,True,User,"Agriculture,Biology & Medicine,B
 None,2014-01-03 22:14:45.777104,None,True,User,"Biology & Medicine,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,293,au56m,True,False,False,False,True
 None,2014-01-03 22:53:40.940691,None,True,User,"Business of Science and Technology,Computational Sciences,Engineered Technologies",True,4,None,None,294,SidMKrish,True,False,False,False,True
 None,2014-01-03 23:06:19.711606,None,True,User,"Biology & Medicine,Business of Science and Technology,Computational Sciences,Engineered Technologies",True,3,None,None,295,chepin12,True,False,False,False,True
-hypercomplex . net,2014-01-03 23:54:36.056945,2,True,"University of Colorado,User","Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,7425,0,None,296,jkominek,True,True,True,True,True
+hypercomplex . net,2014-01-03 23:54:36.056945,2,True,"University of Colorado,User","Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,7463,0,None,296,jkominek,True,True,True,True,True
 None,2014-01-04 01:33:17.127402,None,False,User,"Business of Science and Technology,Global Change",False,0,None,None,297,7bcc8e3c69ae@52b93c2ddec5.anonbox.net,True,False,False,False,True
 None,2014-01-04 01:49:06.182533,None,True,User,,True,1,None,None,298,Vlad,True,False,False,False,True
 None,2014-01-04 03:49:33.550155,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,299,dougclow,True,False,False,False,True
@@ -365,12 +365,12 @@ None,2014-01-06 16:34:50.086170,None,True,User,"Agriculture,Biology & Medicine,B
 None,2014-01-06 17:10:47.676460,None,True,User,"Business of Science and Technology,Computational Sciences,Energy,Global Change",True,0,None,None,364,sebawong,True,False,False,False,True
 None,2014-01-06 23:23:39.296003,None,True,User,"Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,365,dansmith,True,False,False,False,True
 None,2014-01-07 01:52:21.879949,None,True,User,"Business of Science and Technology,Computational Sciences,Global Change",True,2,1,None,366,Mitch,True,False,False,False,True
-"I'm a Chartered Civil Engineer, aged 65, working in Karachi, and interested in how the world works.",2014-01-07 04:48:41.677228,2,True,"Study 2.1B,User","Agriculture,Biology & Medicine,Business of Science and Technology,Energy,Engineered Technologies,Global Change",True,271,0,None,367,KRH,True,True,True,True,True
+"I'm a Chartered Civil Engineer, aged 65, working in Karachi, and interested in how the world works.",2014-01-07 04:48:41.677228,2,True,"Study 2.1B,User","Agriculture,Biology & Medicine,Business of Science and Technology,Energy,Engineered Technologies,Global Change",True,273,0,None,367,KRH,True,True,True,True,True
 None,2014-01-07 07:12:28.271340,2,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy",True,1,None,None,368,mpaltrow,True,False,False,False,True
 None,2014-01-07 08:02:01.726350,None,True,"Study 2.1A,User","Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,16,None,None,369,Thunderbrau,True,False,False,False,True
 None,2014-01-07 09:35:25.153281,None,True,User,"Biology & Medicine,Computational Sciences,Energy,Engineered Technologies,Global Change",True,1,None,None,370,endril,True,False,False,False,True
 None,2014-01-07 12:04:26.848353,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,1,None,None,371,kashanipour,True,False,False,False,True
-I don't believe that robotic exoskeletons will be good at kicking soccer balls any time soon.,2014-01-07 13:42:46.683318,2,True,"IEEE,Stanford University,University of California, Berkeley,University of California (Cal),User","Computational Sciences,Energy",True,1851,1,None,372,ted,True,False,False,False,True
+I don't believe that robotic exoskeletons will be good at kicking soccer balls any time soon.,2014-01-07 13:42:46.683318,2,True,"IEEE,Stanford University,University of California, Berkeley,University of California (Cal),User","Computational Sciences,Energy",True,1858,1,None,372,ted,True,False,False,False,True
 None,2014-01-07 15:23:18.195973,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,373,cherlihy,True,False,False,False,True
 None,2014-01-07 16:07:34.332278,None,True,User,"Agriculture,Business of Science and Technology,Engineered Technologies",True,0,None,None,374,Ross,True,False,False,False,True
 None,2014-01-07 17:04:25.071843,None,True,User,"Biology & Medicine,Energy",True,0,1,None,375,jpmcginnis1,True,False,False,False,True
@@ -384,7 +384,7 @@ None,2014-01-09 01:50:04.993770,None,True,User,Chemistry,True,0,None,None,382,za
 None,2014-01-09 04:37:21.669245,None,True,User,"Computational Sciences,Energy",True,0,None,None,383,Josh,True,False,False,False,True
 None,2014-01-09 09:05:23.385500,None,True,User,"Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy,Global Change",True,3,1,None,384,lisecdellazizzo@gmail.com,True,False,False,False,True
 None,2014-01-09 10:14:08.175291,None,True,"IEEE,User","Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,385,shassler,True,False,False,False,True
-None,2014-01-09 13:26:16.217871,None,True,"IEEE_TRADOC,User","Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,9,None,None,386,jkeaton,True,False,False,False,True
+None,2014-01-09 13:26:16.217871,None,True,"IEEE_TRADOC,User","Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,8,None,None,386,jkeaton,True,False,False,False,True
 None,2014-01-09 13:33:42.267602,None,True,User,Computational Sciences,True,0,None,None,387,naren,True,False,False,False,True
 None,2014-01-09 15:42:35.440030,None,True,User,"Business of Science and Technology,Computational Sciences,Engineered Technologies",True,0,None,None,388,owencutajar,True,False,False,False,True
 None,2014-01-10 03:16:49.996873,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,389,alice0meta,True,False,False,False,True
@@ -794,7 +794,7 @@ None,2014-01-13 11:22:32.024874,None,True,User,"Biology & Medicine,Business of S
 None,2014-01-13 11:40:01.985726,None,True,User,"Agriculture,Business of Science and Technology,Global Change",True,0,None,None,793,marisko,True,False,False,False,True
 None,2014-01-13 11:44:50.003423,None,True,User,"Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,794,Gills2020,True,False,False,False,True
 None,2014-01-13 12:08:06.973814,None,True,User,"Business of Science and Technology,Computational Sciences,Engineered Technologies,Global Change",True,4,None,None,795,Robolution,True,False,False,False,True
-Seems I can't blank this once I set it...,2014-01-13 12:44:33.426299,1,True,User,"Computational Sciences,Energy,Global Change",True,1457,0,None,796,dilettante,True,True,False,False,True
+Seems I can't blank this once I set it...,2014-01-13 12:44:33.426299,1,True,User,"Computational Sciences,Energy,Global Change",True,1456,0,None,796,dilettante,True,True,False,False,True
 None,2014-01-13 13:28:18.079141,None,True,"California Institute of Technology (Cal Tech),Study 2.1B,User","Engineered Technologies,Global Change",True,29,None,None,797,MerrySeeker,True,False,False,False,True
 None,2014-01-13 13:33:51.341844,None,True,User,"Agriculture,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,None,798,padmon,True,False,False,False,True
 None,2014-01-13 13:41:41.171683,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,1,None,None,799,jimt,True,False,False,False,True
@@ -1144,7 +1144,7 @@ None,2014-02-13 16:18:10.131422,None,True,"Study 2.1B,User","Biology & Medicine,
 None,2014-02-13 16:31:38.733504,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change",True,16,None,None,1143,jeromedunn,True,False,False,False,True
 None,2014-02-13 16:36:42.319667,None,True,User,,True,0,None,None,1144,migni123,True,False,False,False,True
 None,2014-02-13 19:50:49.980546,None,True,User,"Biology & Medicine,Global Change",True,0,None,None,1145,librarydes,True,False,False,False,True
-None,2014-02-14 09:45:44.468695,None,True,"IEEE,Yale University,Massachusetts Institute of Technology,User",,True,11,None,None,1146,DouglasM,True,False,False,False,True
+None,2014-02-14 09:45:44.468695,None,True,"IEEE,Yale University,Massachusetts Institute of Technology,User",,True,9,None,None,1146,DouglasM,True,False,False,False,True
 None,2014-02-14 09:49:36.808239,None,True,User,"Energy,Engineered Technologies,Global Change",True,1,None,None,1147,kmos,True,False,False,False,True
 None,2014-02-14 10:53:52.939182,None,True,User,"Biology & Medicine,Business of Science and Technology,Computational Sciences,Energy,Engineered Technologies,Global Change",True,0,None,hn,1148,bisquix,True,False,False,False,True
 None,2014-02-14 12:49:41.721250,None,False,User,Global Change,False,0,None,None,1149,jvsloan,True,False,False,False,True
@@ -1449,7 +1449,7 @@ None,2014-04-07 14:24:33.861321,None,False,User,,False,0,None,jessiejurytest,144
 None,2014-04-07 14:28:46.906174,None,False,User,,False,0,None,None,1448,be8cfa79616ed073,True,False,False,False,True
 None,2014-04-07 18:23:03.110731,None,False,User,,False,0,None,jessiejury,1449,ec78aee533c9421b,True,False,False,False,True
 None,2014-04-07 18:30:01.345690,None,False,User,,False,0,None,jessiejury,1450,c86dc56ebc3f14e4,True,False,False,False,True
-None,2014-04-08 11:13:00.690134,2,True,"Admin,User,Internal,SuperAdmin,UserAdmin,QuestionAdmin,BadgesAdmin,Public,Invalid Questions,GroupsAdmin,BAE,SRI,IEEE,BannerAdmin",,True,209,1,None,1451,Question_Admin,False,False,False,False,False
+None,2014-04-08 11:13:00.690134,2,True,"Admin,User,Internal,SuperAdmin,UserAdmin,QuestionAdmin,BadgesAdmin,Public,Invalid Questions,GroupsAdmin,BAE,SRI,IEEE,BannerAdmin",,True,210,1,None,1451,Question_Admin,False,False,False,False,False
 None,2014-04-08 16:35:17.822602,None,True,User,Information Systems,True,0,None,None,1452,igferg,True,False,False,False,True
 None,2014-04-08 16:56:53.973344,None,True,User,"Global Change,Information Systems,SciCast,Social Sciences",True,2,None,None,1453,Jay,True,False,False,False,True
 None,2014-04-09 10:40:31.276019,None,True,User,Computational Sciences,True,16,None,None,1454,jhanduberbae,True,False,False,False,True
@@ -1571,7 +1571,7 @@ None,2014-04-10 18:08:51.202846,None,True,User,"Agriculture,Business of Science 
 None,2014-04-10 18:09:05.963496,None,True,User,"Engineered Technologies,Physics,Social Sciences,Space Sciences",True,25,None,aaas,1570,Mike 7rank,True,False,False,False,True
 None,2014-04-10 18:12:27.493281,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Energy,Global Change,SciCast,Social Sciences,Space Sciences",True,0,None,aaas,1571,zred,True,False,False,False,True
 None,2014-04-10 18:13:09.760179,None,True,User,"Agriculture,Biology & Medicine,Business of Science and Technology,Energy,Engineered Technologies,Global Change,Space Sciences",True,0,None,AAAS,1572,bj,True,False,False,False,True
-Consulted with Dr Fritchmann on taxonomy of Acmaea 1958. Consulted with Emp. Hiro Hito on Arminia at Friday Harbor Mar Sta. 1959. Psocoptera parthenogenesis at ISU 1972. Consultant Belize 1973. World expert on East Pacific Octocorallia 1979. Reactor effluent at Mar.Bio. Lab 1976. EPA ODEEP at IEC 1975-82. Computer controlled thruster system for ship navigation 1976. Designed ADA 1978. Voice Recog. Studies 1980-82.  Reviewer Sci Books and Films 1981-82. Marine Eco. at CCC Mar. Rev. Com 1983-1991. Dir. Prelim. Mars Env. Project 1990. Pentagon Consultant 1991-94. Retired.,2014-04-10 18:15:15.946604,None,True,User,"Biology & Medicine,Computational Sciences,Engineered Technologies,Information Systems,Mathematics,Physics",True,210,0,aaas,1573,DHarden,True,False,False,False,True
+Consulted with Dr Fritchmann on taxonomy of Acmaea 1958. Consulted with Emp. Hiro Hito on Arminia at Friday Harbor Mar Sta. 1959. Psocoptera parthenogenesis at ISU 1972. Consultant Belize 1973. World expert on East Pacific Octocorallia 1979. Reactor effluent at Mar.Bio. Lab 1976. EPA ODEEP at IEC 1975-82. Computer controlled thruster system for ship navigation 1976. Designed ADA 1978. Voice Recog. Studies 1980-82.  Reviewer Sci Books and Films 1981-82. Marine Eco. at CCC Mar. Rev. Com 1983-1991. Dir. Prelim. Mars Env. Project 1990. Pentagon Consultant 1991-94. Retired.,2014-04-10 18:15:15.946604,None,True,User,"Biology & Medicine,Computational Sciences,Engineered Technologies,Information Systems,Mathematics,Physics",True,209,0,aaas,1573,DHarden,True,False,False,False,True
 None,2014-04-10 18:16:30.785579,None,True,User,"Physics,Space Sciences",True,0,None,None,1574,rjtuttle,True,False,False,False,True
 None,2014-04-10 18:22:40.844311,None,True,User,,True,0,None,AAAS,1575,rhl52,True,False,False,False,True
 None,2014-04-10 18:26:29.543455,None,True,User,Biology & Medicine,True,4,None,aaas,1576,dwduck,True,False,False,False,True
@@ -1964,9 +1964,9 @@ None,2014-05-21 10:28:03.548364,None,True,User,,True,7,None,None,1962,therob,Tru
 None,2014-05-21 10:34:50.245831,None,True,User,,True,4,None,None,1963,TheGiver,True,False,False,False,True
 None,2014-05-21 10:43:41.469877,None,True,User,,True,15,None,None,1964,kimathan,True,False,False,False,True
 None,2014-05-21 11:16:01.774721,None,False,User,,True,0,None,None,1965,jowen,True,False,False,False,True
-None,2014-05-21 11:52:20.259761,2,True,User,,True,176,None,None,1966,rsm3000,True,False,False,False,True
+None,2014-05-21 11:52:20.259761,2,True,User,,True,186,None,None,1966,rsm3000,True,False,False,False,True
 None,2014-05-21 12:02:07.078963,None,False,User,,True,0,None,None,1967,arjun,True,False,False,False,True
-None,2014-05-21 12:03:06.120603,2,True,"University of Pennsylvania,User",,True,168,1,None,1968,arjunr,True,False,False,False,True
+None,2014-05-21 12:03:06.120603,2,True,"University of Pennsylvania,User",,True,167,1,None,1968,arjunr,True,False,False,False,True
 None,2014-05-21 12:59:31.597205,None,True,"University of California, Los Angeles (UCLA),University of California, Berkeley,User",,True,2,None,None,1969,mhandwerk,True,False,False,False,True
 None,2014-05-21 13:04:24.698443,None,True,User,,True,0,None,None,1970,cruncher,True,False,False,False,True
 None,2014-05-21 13:04:40.815099,None,True,User,,True,12,1,None,1971,chumunculus,True,False,False,False,True
@@ -1979,7 +1979,7 @@ None,2014-05-21 13:28:18.304250,None,True,"George Mason University,User",,True,1
 None,2014-05-21 13:35:41.436952,None,False,User,"Agriculture,Computational Sciences,Energy,Engineered Technologies,Global Change,Information Systems,Physics,SciCast,Social Sciences",True,0,None,None,1978,papiolsforuscg,True,False,False,False,True
 None,2014-05-21 13:48:33.912772,None,True,User,,True,22,1,None,1979,rmo,True,False,False,False,True
 None,2014-05-21 13:54:48.870432,None,False,User,,True,0,None,None,1980,washington495,True,False,False,False,True
-None,2014-05-21 14:29:21.235833,None,True,User,,True,1722,1,None,1981,Salemicus,True,False,False,False,True
+None,2014-05-21 14:29:21.235833,None,True,User,,True,1720,1,None,1981,Salemicus,True,False,False,False,True
 None,2014-05-21 14:38:15.134584,None,True,User,"Biology & Medicine,Business of Science,Computational Sciences,Information Systems,Social Sciences",True,3,None,None,1982,lemonfreshman,True,False,False,False,True
 None,2014-05-21 14:41:52.201314,None,False,User,,True,4,None,None,1983,Kitty_T,True,False,False,False,True
 None,2014-05-21 14:48:14.045319,None,False,User,,True,2,None,None,1984,deherle,True,False,False,False,True
@@ -2024,14 +2024,14 @@ None,2014-05-23 05:16:18.973829,None,False,User,,True,0,None,None,2022,ravioneba
 None,2014-05-23 09:20:04.971999,None,False,User,,True,1,1,None,2023,Bitzly,True,False,False,False,True
 None,2014-05-23 09:24:20.671549,None,True,User,,True,20,None,None,2024,theishman,True,False,False,False,True
 None,2014-05-23 12:24:51.246246,None,True,User,,True,0,None,None,2025,lifan,True,False,False,False,True
-None,2014-05-23 13:17:39.489279,2,True,User,,True,949,None,None,2026,spaf,True,False,False,False,True
+None,2014-05-23 13:17:39.489279,2,True,User,,True,948,None,None,2026,spaf,True,False,False,False,True
 None,2014-05-23 14:36:29.881479,None,False,User,,True,0,None,None,2027,SciCast,True,False,False,False,True
 None,2014-05-23 16:53:16.514532,None,False,User,"Business of Science,Computational Sciences,Energy,Engineered Technologies,Physics",True,0,None,None,2028,pentandrous,True,False,False,False,True
 None,2014-05-23 17:22:44.172525,None,False,User,,True,0,None,None,2029,andreww,True,False,False,False,True
 None,2014-05-23 17:55:02.938416,None,True,User,,True,7,1,None,2030,JakeStevens,True,False,False,False,True
 None,2014-05-23 18:45:28.188003,None,False,User,,True,8,None,None,2031,JAKE,True,False,False,False,True
 None,2014-05-23 19:11:59.435417,None,True,User,"Energy,Engineered Technologies,Global Change,Information Systems,Mathematics,Physics,Social Sciences",True,0,None,None,2032,Priapus,True,False,False,False,True
-None,2014-05-24 01:05:07.801607,None,True,User,,True,392,1,None,2033,jackyamashita,True,False,False,False,True
+None,2014-05-24 01:05:07.801607,None,True,User,,True,388,1,None,2033,jackyamashita,True,False,False,False,True
 None,2014-05-24 09:13:06.378146,None,True,User,"Computational Sciences,Information Systems,Mathematics",True,0,1,None,2034,sanxiyn,True,False,False,False,True
 None,2014-05-24 10:07:18.625734,None,True,User,,True,0,None,None,2035,josecelano,True,False,False,False,True
 None,2014-05-24 10:08:02.145690,None,True,User,,True,0,None,None,2036,luispedro,True,False,False,False,True
@@ -2053,14 +2053,14 @@ None,2014-05-25 17:44:45.348691,2,True,User,,True,12,None,None,2051,pcm,True,Fal
 None,2014-05-25 19:44:43.685535,None,True,User,,True,0,None,None,2052,rodo,True,False,False,False,True
 None,2014-05-25 21:30:52.531920,2,True,"Dartmouth College,User","Agriculture,Biology & Medicine,Business of Science,Computational Sciences,Engineered Technologies,Global Change,Information Systems",True,9,None,None,2053,stephenmalina,True,False,False,False,True
 None,2014-05-25 23:14:27.101733,None,False,User,,True,0,None,None,2054,Chente,True,False,False,False,True
-"Economics major between schools, LW rationalist acolyte,",2014-05-26 23:37:06.887595,None,True,User,"Agriculture,Business of Science,Global Change,Mathematics,Physics,SciCast,Social Sciences",True,75,0,None,2055,WadeWillson,True,False,False,True,True
+"Economics major between schools, LW rationalist acolyte,",2014-05-26 23:37:06.887595,None,True,User,"Agriculture,Business of Science,Global Change,Mathematics,Physics,SciCast,Social Sciences",True,79,0,None,2055,WadeWillson,True,False,False,True,True
 None,2014-05-27 02:34:09.983146,None,False,User,,True,13,None,None,2056,pareto,True,False,False,False,True
 None,2014-05-27 06:12:30.020657,None,False,User,,True,0,None,None,2057,jwalexander,True,False,False,False,True
-None,2014-05-27 09:38:38.297192,2,True,User,,True,878,0,None,2058,william.quixote,True,False,False,False,True
+None,2014-05-27 09:38:38.297192,2,True,User,,True,877,0,None,2058,william.quixote,True,False,False,False,True
 None,2014-05-27 10:14:23.930584,None,False,User,,True,0,None,None,2059,DOC.SAVAGE64,True,False,False,False,True
 None,2014-05-27 10:55:16.294698,None,False,User,,True,2,1,None,2060,ammonl,True,False,False,False,True
 None,2014-05-27 11:18:30.241337,None,True,User,,True,53,None,None,2061,DanielH,True,False,False,False,True
-"I enter this contest in a beautiful state of being completely uninfluenced by personal involvement in any of the topics at hand. I am an underachieving middle-aged autodidact, and come here solely in the hope of winning some of the Amazon gift cards I learned about through Robin Hanson's blog.",2014-05-27 12:44:09.319021,2,True,"Michigan State University,User",,True,3188,0,None,2062,Disinterest,True,False,False,False,True
+"I enter this contest in a beautiful state of being completely uninfluenced by personal involvement in any of the topics at hand. I am an underachieving middle-aged autodidact, and come here solely in the hope of winning some of the Amazon gift cards I learned about through Robin Hanson's blog.",2014-05-27 12:44:09.319021,2,True,"Michigan State University,User",,True,3179,0,None,2062,Disinterest,True,False,False,False,True
 None,2014-05-27 13:04:19.903339,None,True,User,,True,7,None,None,2063,BubbaB,True,False,False,False,True
 None,2014-05-27 13:41:01.502040,None,False,User,,True,0,None,None,2064,Browzer,True,False,False,False,True
 None,2014-05-27 16:31:35.707580,None,False,User,,True,0,None,None,2065,dlpfundstein,True,False,False,False,True
@@ -2073,7 +2073,7 @@ None,2014-05-28 11:49:28.630117,None,False,User,,True,0,None,None,2071,Fank,True
 None,2014-05-28 12:05:53.043470,None,True,User,,True,0,None,None,2072,rzlafond,True,False,False,False,True
 None,2014-05-28 12:47:35.737437,None,False,User,,True,1,None,None,2073,Shureg,True,False,False,False,True
 None,2014-05-28 12:48:00.689086,None,False,User,,True,605,1,None,2074,steicher,True,False,False,False,True
-None,2014-05-28 14:11:38.980198,2,True,"Stanford University,User",,True,3378,0,None,2075,bw,True,False,False,False,True
+None,2014-05-28 14:11:38.980198,2,True,"Stanford University,User",,True,3424,0,None,2075,bw,True,False,False,False,True
 None,2014-05-28 15:08:41.942319,None,False,User,"Agriculture,Biology & Medicine,Chemistry,Global Change,Information Systems",True,6,1,None,2076,chewitt,True,False,False,False,True
 None,2014-05-28 16:00:22.128720,None,False,User,,True,0,None,None,2077,imaname,True,False,False,False,True
 None,2014-05-28 16:07:41.453373,None,False,User,,True,0,None,None,2078,orangethunder,True,False,False,False,True
@@ -2082,7 +2082,7 @@ None,2014-05-28 16:10:41.960450,None,True,"University of Illinois (Urbana-Champa
 None,2014-05-28 16:11:08.471238,None,False,User,"Computational Sciences,Information Systems,Mathematics,SciCast",True,2,None,None,2081,baileyharper,True,False,False,False,True
 None,2014-05-28 16:12:35.704845,None,False,User,"Agriculture,Mathematics,SciCast,Social Sciences",True,2,None,None,2082,soldan,True,False,False,False,True
 None,2014-05-28 16:12:47.779862,None,False,User,,True,2,None,None,2083,jonmckay93,True,False,False,False,True
-None,2014-05-28 16:15:26.541106,1,True,"Florida State University,University of California, Berkeley,User",,True,1685,1,None,2084,poopstix,True,False,False,False,True
+None,2014-05-28 16:15:26.541106,1,True,"Florida State University,University of California, Berkeley,User",,True,1682,1,None,2084,poopstix,True,False,False,False,True
 None,2014-05-28 16:17:03.150765,None,True,User,,True,1765,1,None,2085,pigmoose,True,False,False,False,True
 I like making these predictions!,2014-05-28 16:19:12.388143,None,True,User,,True,3,0,None,2086,MethodicalMan,True,False,False,False,True
 None,2014-05-28 16:19:18.451153,None,False,User,,True,1,None,None,2087,Justriley,True,False,False,False,True
@@ -2109,9 +2109,9 @@ None,2014-05-28 22:06:38.827520,None,True,"George Mason University,User",,True,1
 None,2014-05-29 09:53:48.707664,None,True,"Internal,User",,True,7,None,None,2108,Heegan53,True,False,False,False,True
 None,2014-05-29 14:15:09.477054,None,False,User,"Business of Science,Computational Sciences,Engineered Technologies,Information Systems,SciCast,Social Sciences",True,0,None,None,2109,sevonvan,True,False,False,False,True
 None,2014-05-29 15:09:44.810874,None,False,User,,True,0,None,None,2110,jessedw3,True,False,False,False,True
-None,2014-05-30 12:11:58.022030,None,True,User,,True,4236,1,None,2111,scicast33,True,False,False,False,True
+None,2014-05-30 12:11:58.022030,None,True,User,,True,4233,1,None,2111,scicast33,True,False,False,False,True
 None,2014-05-30 12:26:32.227062,None,False,User,,True,0,None,None,2112,testUser1,True,False,False,False,True
-None,2014-05-30 12:29:36.304186,2,False,"Got email?,University of California, Berkeley,User","Agriculture,Biology & Medicine,Chemistry,Energy,Global Change,Mathematics,Social Sciences",True,1685,None,None,2113,Numberwang,True,False,False,False,True
+None,2014-05-30 12:29:36.304186,2,False,"Got email?,University of California, Berkeley,User","Agriculture,Biology & Medicine,Chemistry,Energy,Global Change,Mathematics,Social Sciences",True,1683,None,None,2113,Numberwang,True,False,False,False,True
 None,2014-05-30 12:31:29.723738,None,True,User,,True,2,None,None,2114,P1234,True,False,False,False,True
 None,2014-05-30 13:39:58.052039,None,False,User,,True,1,None,None,2115,ulpehe,True,False,False,False,True
 None,2014-05-30 18:57:16.537289,None,True,User,,True,0,None,None,2116,nmoerke,True,False,False,False,True
@@ -2132,7 +2132,7 @@ None,2014-06-03 11:00:16.865063,None,False,User,"Business of Science,Computation
 None,2014-06-03 13:30:19.131226,None,False,"Michigan State University,User",,True,0,None,None,2131,Librarian232,True,False,False,False,True
 None,2014-06-03 14:30:06.570005,None,True,User,,True,6,None,None,2132,UnpleasantFacts,True,False,False,False,True
 None,2014-06-03 15:10:05.073112,None,False,User,,True,1,None,None,2133,TSears,True,False,False,False,True
-None,2014-06-03 17:08:18.835516,None,False,User,"Business of Science,Energy,Global Change,Social Sciences",True,153,1,None,2134,ejh444,True,False,False,False,True
+None,2014-06-03 17:08:18.835516,None,False,User,"Business of Science,Energy,Global Change,Social Sciences",True,151,1,None,2134,ejh444,True,False,False,False,True
 None,2014-06-03 21:23:57.029879,None,True,"Admin,User,Internal,SuperAdmin,UserAdmin,TradeAdmin,QuestionAdmin,RolesAdmin",,True,2,None,None,2135,bgoldfedder2,True,False,False,False,True
 None,2014-06-03 22:34:19.703876,None,False,User,,True,0,None,None,2136,MissJawlz,True,False,False,False,True
 None,2014-06-03 23:05:38.519385,None,False,User,,True,0,None,None,2137,jad1421,True,False,False,False,True
@@ -2148,7 +2148,7 @@ None,2014-06-04 12:43:59.884839,None,False,"IEEE,User",,True,0,None,IEEE_Fellows
 None,2014-06-04 12:45:03.298020,None,False,User,"Biology & Medicine,Chemistry,Computational Sciences,Engineered Technologies,Information Systems,Mathematics,Physics",True,3,None,None,2147,TheOnePercent,True,False,False,False,True
 None,2014-06-04 14:20:24.716858,None,False,"IEEE,Internal,User",,True,1,None,IEEE_Fellows,2148,ieee_testing,True,False,False,False,True
 None,2014-06-04 17:08:00.946333,None,False,User,,True,0,None,None,2149,jeffhand,True,False,False,False,True
-None,2014-06-04 17:15:23.252225,None,False,"University of California, Berkeley,User",,True,1625,1,None,2150,Miku,True,False,False,False,True
+None,2014-06-04 17:15:23.252225,None,False,"University of California, Berkeley,User",,True,1619,1,None,2150,Miku,True,False,False,False,True
 None,2014-06-04 17:25:45.593694,None,False,User,,True,0,None,None,2151,test2,True,False,False,False,True
 None,2014-06-04 17:54:49.014315,None,False,User,,True,0,None,None,2152,brown1988,True,False,False,False,True
 None,2014-06-04 21:08:25.252791,None,True,"George Mason University,User",,True,9,None,None,2153,Dlurker,True,False,False,False,True
@@ -2180,10 +2180,10 @@ None,2014-06-06 02:33:02.747004,None,False,User,,True,0,None,None,2178,yankeerac
 None,2014-06-06 10:49:15.059514,None,False,User,,True,444,1,None,2179,JosephMacGee,True,False,False,False,True
 None,2014-06-06 12:26:56.293942,None,False,User,,True,0,None,None,2180,patriceharris,True,False,False,False,True
 None,2014-06-06 13:50:18.614962,None,True,User,"Biology & Medicine,Computational Sciences,SciCast",True,0,None,None,2181,ozyking,True,False,False,False,True
-None,2014-06-06 14:12:50.019132,1,True,"University of Pennsylvania,User",,True,123,None,None,2182,SandyC,True,False,False,False,True
+None,2014-06-06 14:12:50.019132,1,True,"University of Pennsylvania,User",,True,122,None,None,2182,SandyC,True,False,False,False,True
 None,2014-06-06 16:30:07.951369,None,False,"Internal,User",,True,0,None,None,2183,jjpeirce,True,False,False,False,True
 None,2014-06-06 20:34:52.226380,None,False,User,,True,0,None,None,2184,Sir Luke,True,False,False,False,True
-None,2014-06-06 22:03:11.628485,2,True,User,,True,998,1,None,2185,averagefruit,True,False,False,False,True
+None,2014-06-06 22:03:11.628485,2,True,User,,True,996,1,None,2185,averagefruit,True,False,False,False,True
 None,2014-06-07 00:57:05.660750,None,False,User,"Biology & Medicine,Chemistry,Computational Sciences,Energy,Mathematics,Physics,Social Sciences",True,4,None,None,2186,kslimes,True,False,False,False,True
 None,2014-06-07 08:56:25.389318,None,True,User,,True,16,1,usgif,2187,IonM,True,False,False,False,True
 None,2014-06-07 14:08:31.089712,None,False,User,,True,1,None,None,2188,maximaxoo,True,False,False,False,True
@@ -2223,7 +2223,7 @@ None,2014-06-11 12:10:19.440294,None,False,"IEEE,User","Computational Sciences,E
 None,2014-06-11 12:28:13.888832,None,False,"IEEE,User",,True,1,None,IEEE_Fellows,2222,tsebastian,True,False,False,False,True
 None,2014-06-11 12:33:57.323442,None,True,"IEEE,User",,True,0,None,IEEE_Fellows,2223,Pollefeys,True,False,False,False,True
 None,2014-06-11 12:37:37.457674,None,False,User,,True,0,None,None,2224,cartesianangst,True,False,False,False,True
-None,2014-06-11 12:49:19.479885,None,True,User,"Biology & Medicine,Business of Science,Chemistry",True,15,None,None,2225,harlanp6,True,False,False,False,True
+None,2014-06-11 12:49:19.479885,None,True,User,"Biology & Medicine,Business of Science,Chemistry",True,14,None,None,2225,harlanp6,True,False,False,False,True
 None,2014-06-11 13:02:00.127752,None,True,"IEEE,User",,True,0,None,IEEE_Fellows,2226,Schamiloglu,True,False,False,False,True
 None,2014-06-11 13:02:24.098060,None,False,"IEEE,User",,True,0,None,IEEE_Fellows,2227,drsandrakj,True,False,False,False,True
 None,2014-06-11 13:03:26.272976,None,False,"IEEE,User",,True,0,None,IEEE_Fellows,2228,bbm,True,False,False,False,True
@@ -2281,9 +2281,9 @@ None,2014-06-12 17:30:35.100085,None,False,"IEEE,User",,True,1,None,IEEE_Fellows
 None,2014-06-12 17:43:09.987798,None,False,User,,True,1,None,None,2280,Gkcar,True,False,False,False,True
 None,2014-06-12 19:55:58.999460,None,False,"IEEE,User",,True,0,None,IEEE_Fellows,2281,PaulMc,True,False,False,False,True
 None,2014-06-12 20:41:24.010822,None,True,"IEEE,User",,True,0,None,IEEE_Fellows,2282,HaoHuang,True,False,False,False,True
-None,2014-06-12 21:07:51.818181,2,True,User,,True,2975,0,None,2283,Relax,True,False,False,False,False
+None,2014-06-12 21:07:51.818181,2,True,User,,True,2972,0,None,2283,Relax,True,False,False,False,False
 None,2014-06-12 22:15:05.983545,None,False,"IEEE,User",,True,1,None,IEEE_Fellows,2284,verret@ieee.org,True,False,False,False,True
-None,2014-06-13 01:59:51.528646,None,True,"University of California, Berkeley,User",,True,1359,None,None,2285,Hotshot,True,False,False,False,True
+None,2014-06-13 01:59:51.528646,None,True,"University of California, Berkeley,User",,True,1355,None,None,2285,Hotshot,True,False,False,False,True
 None,2014-06-13 05:26:07.800057,None,False,"IEEE,User",,True,2,None,IEEE_Fellows,2286,eleczn,True,False,False,False,True
 None,2014-06-13 09:59:22.690172,None,True,User,,True,1,None,None,2287,noku,True,False,False,False,True
 None,2014-06-13 10:38:57.743183,None,False,User,,False,0,None,bannerad,2288,cc4692a5c28eef50,True,False,False,False,True
@@ -2297,7 +2297,7 @@ None,2014-06-13 19:18:52.058236,None,True,User,,True,1,None,None,2295,davidshwu,
 None,2014-06-13 21:55:31.374426,None,True,User,,True,0,None,None,2296,skyko,True,False,False,False,True
 None,2014-06-13 23:50:52.614949,None,False,User,,True,114,1,None,2297,jgrichar,True,False,False,False,True
 None,2014-06-14 03:09:33.370884,None,False,"IEEE,User",,True,4,None,IEEE_Fellows,2298,ianopper,True,False,False,False,True
-None,2014-06-14 11:42:21.728370,2,True,User,,True,2472,0,None,2299,Chambers,True,False,False,False,True
+None,2014-06-14 11:42:21.728370,2,True,User,,True,2470,0,None,2299,Chambers,True,False,False,False,True
 None,2014-06-14 14:15:08.751599,None,False,User,,True,2,None,None,2300,Ldstaub,True,False,False,False,True
 None,2014-06-14 15:54:20.792880,None,False,User,,True,0,None,None,2301,edench,True,False,False,False,True
 None,2014-06-14 16:51:48.640374,None,False,"IEEE,User",,True,1,None,IEEE_Fellows,2302,teparker2,True,False,False,False,True
@@ -2307,13 +2307,13 @@ None,2014-06-14 19:58:34.565828,None,True,User,"Computational Sciences,IEEE Spec
 None,2014-06-14 21:41:31.463425,None,False,"Massachusetts Institute of Technology,User",,True,5,None,collegebowl,2306,trsohmers,True,False,False,False,True
 None,2014-06-14 22:15:48.451893,None,True,"Stanford University,User",,True,2,None,None,2307,vylasaven,True,False,False,False,True
 None,2014-06-15 00:32:28.082994,None,False,"Stanford University,User",,True,2,None,None,2308,tardigrade,True,False,False,False,True
-None,2014-06-15 06:14:59.768702,None,False,"IEEE,User",,True,2,None,IEEE_Fellows,2309,b.pal,True,False,False,False,True
+None,2014-06-15 06:14:59.768702,None,False,"IEEE,User",,True,1,None,IEEE_Fellows,2309,b.pal,True,False,False,False,True
 None,2014-06-15 06:39:55.062343,None,True,User,,True,1,None,None,2310,Papiwcio,True,False,False,False,True
 None,2014-06-15 17:42:49.196993,None,False,User,,True,1,1,None,2311,jamesclark,True,False,False,False,True
 None,2014-06-15 20:45:43.526918,None,False,User,,True,1,None,None,2312,jacklar,True,False,False,False,True
 None,2014-06-15 20:51:00.698043,None,False,User,"Business of Science,Energy,Global Change,Information Systems,SciCast,Social Sciences",True,1,None,None,2313,mercury,True,False,False,False,True
 None,2014-06-16 03:40:48.144434,None,False,"IEEE,User",,True,0,None,IEEE_Fellows,2314,MaJusheng,True,False,False,False,True
-None,2014-06-16 11:41:18.706764,2,True,User,,True,2881,None,None,2315,IntelInside,True,False,False,False,True
+None,2014-06-16 11:41:18.706764,2,True,User,,True,2870,None,None,2315,IntelInside,True,False,False,False,True
 None,2014-06-16 12:39:53.620938,None,False,User,,True,1,None,bannerad,2316,markflynn,True,False,False,False,True
 None,2014-06-16 12:42:37.392995,None,False,User,,True,0,None,bannerad,2317,MichaelJordan23,True,False,False,False,True
 None,2014-06-16 14:30:58.252458,None,True,User,,True,2,None,None,2318,msonwalkar,True,False,False,False,True
@@ -2330,7 +2330,7 @@ None,2014-06-17 14:36:53.032270,None,True,"IEEE,User",,True,1,None,IEEE_Fellows,
 None,2014-06-17 14:41:09.570309,None,True,"IEEE,User",,True,0,None,IEEE_Fellows,2329,flescher,True,False,False,False,True
 None,2014-06-17 14:43:12.535954,None,True,"IEEE,User",,True,2,None,IEEE_Fellows,2330,maliko,True,False,False,False,True
 None,2014-06-17 14:44:03.553004,None,True,"IEEE,User",,True,1,1,IEEE_Fellows,2331,pkrajan,True,False,False,False,True
-None,2014-06-17 14:44:39.431115,None,True,"IEEE,User",,True,6,1,IEEE_Fellows,2332,SergeLuryi,True,False,False,False,True
+None,2014-06-17 14:44:39.431115,None,True,"IEEE,User",,True,5,1,IEEE_Fellows,2332,SergeLuryi,True,False,False,False,True
 None,2014-06-17 14:48:34.440892,None,True,"IEEE,User","Computational Sciences,Energy,Engineered Technologies,Global Change,SciCast,Social Sciences",True,0,None,IEEE_Fellows,2333,b3barr,True,False,False,False,True
 None,2014-06-17 14:49:20.969292,None,False,"IEEE,User",,True,0,None,IEEE_Fellows,2334,cnmirose,True,False,False,False,True
 None,2014-06-17 14:51:37.816790,None,True,"IEEE,User",,True,3,None,IEEE_Fellows,2335,wshen@ieee.org,True,False,False,False,True
@@ -2350,14 +2350,14 @@ None,2014-06-17 16:02:26.274199,None,True,"IEEE,User",,True,6,None,IEEE_Fellows,
 None,2014-06-17 16:03:25.680315,None,True,"IEEE,User",,True,0,None,IEEE_Fellows,2349,jalspector,True,False,False,False,True
 None,2014-06-17 16:18:47.028176,None,False,"IEEE,User",,True,0,None,IEEE_Fellows,2350,tarntj,True,False,False,False,True
 None,2014-06-17 16:20:00.419317,2,False,"IEEE,User",Engineered Technologies,True,2,None,IEEE_Fellows,2351,DrGraphene,True,False,False,False,True
-None,2014-06-17 16:22:43.451213,None,False,User,,True,225,1,None,2352,Melas,True,False,False,False,True
+None,2014-06-17 16:22:43.451213,None,False,User,,True,224,1,None,2352,Melas,True,False,False,False,True
 None,2014-06-17 16:30:59.910235,None,True,"IEEE,User",,True,1,None,IEEE_Fellows,2353,vsinha,True,False,False,False,True
 None,2014-06-17 16:39:26.879084,None,True,"IEEE,User","Business of Science,Engineered Technologies,SciCast",True,0,None,IEEE_Fellows,2354,laserseti,True,False,False,False,True
 None,2014-06-17 16:45:04.632884,None,False,"IEEE,User",,True,1,None,IEEE_Fellows,2355,erfreeman,True,False,False,False,True
-None,2014-06-17 17:00:21.162647,None,False,"IEEE,User",,True,2,1,IEEE_Fellows,2356,jofre,True,False,False,False,True
+None,2014-06-17 17:00:21.162647,None,False,"IEEE,User",,True,1,1,IEEE_Fellows,2356,jofre,True,False,False,False,True
 None,2014-06-17 17:01:05.320275,None,True,"IEEE,User",,True,7,1,IEEE_Fellows,2357,fonguy,True,False,False,False,True
 None,2014-06-17 17:16:22.085073,None,False,"IEEE,User","Business of Science,SciCast",True,0,None,IEEE_Fellows,2358,rspayne,True,False,False,False,True
-I play RuneScape and I'm currently interested in forecasting weather and I want to grow up to be a weatherman some day. Please call me Mr Weather RuneMan.,2014-06-17 17:28:52.913845,None,True,User,,True,698,0,None,2359,RuneMan,True,False,False,False,True
+I play RuneScape and I'm currently interested in forecasting weather and I want to grow up to be a weatherman some day. Please call me Mr Weather RuneMan.,2014-06-17 17:28:52.913845,None,True,User,,True,696,0,None,2359,RuneMan,True,False,False,False,True
 None,2014-06-17 17:30:12.968253,None,False,User,,True,2,None,usgif,2360,andyhickl,True,False,False,False,True
 None,2014-06-17 17:34:28.676927,None,True,"IEEE,User","Business of Science,Computational Sciences,Engineered Technologies,Physics,SciCast",True,0,None,IEEE_Fellows,2361,ShdSiriCan,True,False,False,False,True
 None,2014-06-17 17:44:16.519545,None,False,"IEEE,User",,True,1,None,IEEE_Fellows,2362,Hbertoni,True,False,False,False,True
@@ -2446,7 +2446,7 @@ None,2014-06-19 10:16:41.901339,None,False,User,,True,1,None,None,2444,yuvaraj74
 None,2014-06-19 10:20:00.401031,None,False,User,,True,0,None,None,2445,bluebell86,True,False,False,False,True
 None,2014-06-19 11:23:45.282382,None,True,"IEEE,User",,True,1,None,IEEE_Fellows,2446,irwinlebow,True,False,False,False,True
 None,2014-06-19 12:14:40.090914,None,True,User,,True,2,None,None,2447,hanisaf,True,False,False,False,True
-None,2014-06-19 12:44:27.706045,None,False,User,,True,35,None,None,2448,adicodirlasu,True,False,False,False,True
+None,2014-06-19 12:44:27.706045,None,False,User,,True,34,None,None,2448,adicodirlasu,True,False,False,False,True
 None,2014-06-19 12:49:58.700956,None,True,User,"Biology & Medicine,Business of Science,Computational Sciences,Engineered Technologies,Global Change,Information Systems,SciCast",True,3,1,usgif,2449,zimbuhung,True,False,False,False,True
 None,2014-06-19 12:58:26.350635,None,False,User,,True,1,None,None,2450,hansmair,True,False,False,False,True
 None,2014-06-19 14:44:14.340530,None,False,User,"Business of Science,Information Systems,SciCast,Social Sciences",False,0,None,community,2451,e54077a02b717007,True,False,False,False,True
@@ -4767,7 +4767,7 @@ None,2014-06-21 10:20:26.268029,None,False,User,,True,1,None,bannerad,4765,gabga
 None,2014-06-21 10:21:25.460342,None,False,User,,True,0,None,bannerad,4766,janetz,True,False,False,False,True
 None,2014-06-21 10:21:54.377063,None,False,User,,True,1,None,bannerad,4767,ratliff766,True,False,False,False,True
 None,2014-06-21 10:25:11.955813,None,False,User,,True,1,None,None,4768,maschlau,True,False,False,False,True
-None,2014-06-21 10:26:12.677353,2,True,User,,True,2522,0,None,4769,Recycler,True,True,True,True,True
+None,2014-06-21 10:26:12.677353,2,True,User,,True,2519,0,None,4769,Recycler,True,True,True,True,True
 None,2014-06-21 10:26:26.657126,None,False,User,,True,0,None,community,4770,kantdate,True,False,False,False,True
 None,2014-06-21 10:26:40.755078,None,False,User,,True,0,None,community,4771,buttman450,True,False,False,False,True
 None,2014-06-21 10:28:10.977872,None,True,User,,True,1,None,bannerad,4772,Autumn,True,False,False,False,True
@@ -5120,7 +5120,7 @@ None,2014-06-21 16:02:23.518159,None,True,User,,True,1,None,community,5118,wfafa
 None,2014-06-21 16:03:55.865730,None,False,User,,True,1,None,community,5119,miyaquo,True,False,False,False,True
 None,2014-06-21 16:06:22.839783,None,True,User,,True,0,None,community,5120,miyaquo1,True,False,False,False,True
 None,2014-06-21 16:09:14.833214,None,True,User,,True,1,None,bannerad,5121,lenabug83,True,False,False,False,True
-None,2014-06-21 16:10:23.569643,2,True,User,,False,2271,None,None,5122,Phoenix,True,False,False,False,True
+None,2014-06-21 16:10:23.569643,2,True,User,,False,2267,None,None,5122,Phoenix,True,False,False,False,True
 None,2014-06-21 16:11:40.082799,None,False,User,,True,0,None,community,5123,TWELVEPAK1259,True,False,False,False,True
 None,2014-06-21 16:12:20.259766,None,True,User,,True,1,None,community,5124,JimmyM1957,True,False,False,False,True
 None,2014-06-21 16:13:33.784345,None,True,User,,True,0,None,None,5125,luca973,True,False,False,False,True
@@ -5280,7 +5280,7 @@ None,2014-06-21 18:58:37.936633,None,True,User,,True,2,None,community,5278,rober
 None,2014-06-21 19:03:04.169002,None,False,User,"Agriculture,Biology & Medicine,Energy,Engineered Technologies,Global Change,Physics,SciCast",True,0,None,community,5279,MacCaskill,True,False,False,False,True
 None,2014-06-21 19:06:13.694876,None,False,User,,True,0,None,community,5280,heartly23,True,False,False,False,True
 None,2014-06-21 19:06:26.514767,None,False,User,,True,1,None,bannerad,5281,jimsampson,True,False,False,False,True
-.,2014-06-21 19:07:22.062396,2,True,User,,True,2882,0,None,5282,Tender,True,False,False,False,True
+.,2014-06-21 19:07:22.062396,2,True,User,,True,2879,0,None,5282,Tender,True,False,False,False,True
 None,2014-06-21 19:12:25.560949,None,False,User,,True,1,None,community,5283,kayla0121luv,True,False,False,False,True
 None,2014-06-21 19:13:07.870972,None,False,User,,True,0,None,bannerad,5284,LizzieBen,True,False,False,False,True
 None,2014-06-21 19:14:57.644131,None,False,User,,True,1,None,community,5285,rkforioefr,True,False,False,False,True
@@ -6780,7 +6780,7 @@ None,2014-06-30 14:26:16.541206,None,False,User,,True,0,None,community,6778,Anit
 None,2014-06-30 14:26:39.511042,None,True,User,,True,1,None,community,6779,REATRAETA,True,False,False,False,True
 None,2014-06-30 14:27:14.385593,None,True,User,,True,0,None,community,6780,calistamack1,True,False,False,False,True
 None,2014-06-30 14:28:25.726695,None,False,User,,True,0,None,community,6781,lindseysmith777,True,False,False,False,True
-None,2014-06-30 14:28:42.804127,2,True,User,,True,790,0,None,6782,banneradman,True,False,False,False,True
+None,2014-06-30 14:28:42.804127,2,True,User,,True,788,0,None,6782,banneradman,True,False,False,False,True
 None,2014-06-30 14:29:19.888734,None,False,User,,True,0,None,community,6783,computerguy,True,False,False,False,True
 None,2014-06-30 14:31:43.061210,None,False,User,,True,0,None,community,6784,joselinev12,True,False,False,False,True
 None,2014-06-30 14:35:07.252078,None,False,User,,True,1,None,community,6785,boogie25colt,True,False,False,False,True
@@ -7127,7 +7127,7 @@ None,2014-07-02 17:31:28.698414,None,False,User,,True,2,None,community,7125,Nutt
 None,2014-07-02 17:31:54.883124,None,False,User,,True,0,None,community,7126,rawrkittyy,True,False,False,False,True
 None,2014-07-02 17:32:32.780778,None,False,User,,True,1,None,community,7127,jeff8888,True,False,False,False,True
 None,2014-07-02 18:28:49.195866,None,False,User,,True,0,None,community,7128,randyboyjackson502,True,False,False,False,True
-Passionate. Objective. Curious.,2014-07-02 20:03:21.766226,None,False,"Got email?,User","Biology & Medicine,Business of Science,Energy,Engineered Technologies,Global Change,Information Systems,Mathematics,Physics,SciCast,Social Sciences",True,262,0,None,7129,supportcaring,True,True,False,True,True
+Passionate. Objective. Curious.,2014-07-02 20:03:21.766226,None,False,"Got email?,User","Biology & Medicine,Business of Science,Energy,Engineered Technologies,Global Change,Information Systems,Mathematics,Physics,SciCast,Social Sciences",True,261,0,None,7129,supportcaring,True,True,False,True,True
 None,2014-07-02 22:16:03.149557,None,False,"IEEE,User",,True,0,None,IEEE_Fellows,7130,TO.SUSUKI,True,False,False,False,True
 None,2014-07-03 03:04:59.112194,None,True,User,,True,1,None,community,7131,rrrgomez,True,False,False,False,True
 None,2014-07-03 03:43:27.730924,None,True,User,,True,1,None,community,7132,ForcatsNiqqa,True,False,False,False,True
@@ -8894,7 +8894,7 @@ None,2014-07-17 00:45:11.297437,None,False,User,,True,4,None,usgif,8931,Jakesjac
 None,2014-07-17 06:42:01.858083,None,False,User,,True,2,None,None,8932,GlieseOrBust,True,False,False,False,True
 None,2014-07-17 09:47:24.831440,None,True,User,,True,2,None,None,8933,ggeisen,True,False,False,False,True
 None,2014-07-17 11:45:45.537283,None,False,User,,True,11,None,AAAS,8934,SciGuy1,True,False,False,False,True
-None,2014-07-17 15:00:34.580020,2,True,User,,True,2115,None,None,8935,hippolyta,True,False,False,False,True
+None,2014-07-17 15:00:34.580020,2,True,User,,True,2109,None,None,8935,hippolyta,True,False,False,False,True
 None,2014-07-17 19:50:14.456698,None,False,User,,True,0,None,None,8936,kperry@scicast.org,True,False,False,False,True
 None,2014-07-17 22:56:28.757607,None,False,User,,True,0,None,None,8937,JValentino,True,False,False,False,True
 None,2014-07-18 10:54:07.891816,None,False,User,Energy,True,5,None,None,8938,coscinodiscus,True,False,False,False,True
@@ -8904,7 +8904,7 @@ None,2014-07-18 22:57:21.134576,None,False,User,Social Sciences,True,0,None,None
 None,2014-07-19 02:34:19.473325,None,False,User,,True,4,None,None,8942,emolamol,True,False,False,False,True
 None,2014-07-19 19:30:39.719880,None,False,User,,True,1,None,AAAS,8943,Faho,True,False,False,False,True
 None,2014-07-20 10:17:04.507209,None,True,User,,True,6,None,None,8944,crc32,True,False,False,False,True
-None,2014-07-20 10:31:28.155912,None,True,User,,True,12,None,None,8945,laughinghyena13,True,False,False,False,True
+None,2014-07-20 10:31:28.155912,None,True,User,,True,11,None,None,8945,laughinghyena13,True,False,False,False,True
 None,2014-07-20 11:11:25.754915,None,True,User,"Biology & Medicine,Business of Science,Computational Sciences,Energy,Engineered Technologies,Global Change,Information Systems,Physics",True,15,1,None,8946,butchhoward,True,False,False,False,True
 None,2014-07-20 11:17:33.563917,None,False,User,,True,0,None,None,8947,Wophugus,True,False,False,False,True
 None,2014-07-20 11:18:37.138460,None,False,User,,True,1,None,None,8948,SuperSharpShots,True,False,False,False,True
@@ -8915,7 +8915,7 @@ None,2014-07-20 12:53:46.077984,None,True,User,,True,4,None,None,8952,jbuberel,T
 None,2014-07-20 12:57:03.811232,None,True,User,,True,0,None,None,8953,Benito,True,False,False,False,True
 None,2014-07-20 13:03:09.657292,None,False,"Brigham Young University,User",,True,6,None,None,8954,bbarlow,True,False,False,False,True
 None,2014-07-20 13:42:33.573792,None,False,User,"Biology & Medicine,Computational Sciences,Energy,Global Change,Information Systems,Mathematics,Physics,Social Sciences",True,1,None,None,8955,samruk,True,False,False,False,True
-None,2014-07-20 13:47:47.160892,None,True,User,,True,57,None,None,8956,mbrisso,True,False,False,False,True
+None,2014-07-20 13:47:47.160892,None,True,User,,True,56,None,None,8956,mbrisso,True,False,False,False,True
 None,2014-07-20 14:18:06.866615,None,True,User,"Computational Sciences,Global Change,Information Systems,Social Sciences",True,6,None,None,8957,Levap,True,False,False,False,True
 None,2014-07-20 15:54:37.785645,None,True,User,,True,7,None,None,8958,Hkapur1980,True,False,False,False,True
 None,2014-07-20 17:25:51.603182,None,False,User,,True,0,None,None,8959,AndyMcKenzie,True,False,False,False,True
@@ -8946,7 +8946,7 @@ None,2014-07-21 20:06:59.666677,None,False,"Internal,User",,False,0,None,TRADOC,
 None,2014-07-21 22:34:06.195812,None,False,User,,True,2,None,AAAS,8984,Donna K.,True,False,False,False,True
 None,2014-07-21 22:49:41.053328,None,False,"Admin,System,UserAdmin,SuperAdmin,Internal,User",,True,0,None,None,8985,jschultz,True,False,False,False,True
 None,2014-07-22 01:31:24.164277,None,False,User,,True,1,None,ISACA,8986,vinoth18,True,False,False,False,True
-None,2014-07-22 01:49:13.908989,2,True,User,,True,1023,None,None,8987,Robert,True,False,False,False,True
+None,2014-07-22 01:49:13.908989,2,True,User,,True,1020,None,None,8987,Robert,True,False,False,False,True
 None,2014-07-22 03:26:16.574201,None,True,User,,True,0,None,ISACA,8988,Chidi,True,False,False,False,True
 None,2014-07-22 05:13:17.872388,None,False,User,,True,1,None,None,8989,ppppp,True,False,False,False,True
 None,2014-07-22 08:12:52.679446,None,False,User,,True,1,None,ISACA,8990,Secunoid,True,False,False,False,True
@@ -8956,7 +8956,7 @@ None,2014-07-22 10:29:41.169613,None,False,User,,True,0,None,ISACA,8993,Natalia,
 None,2014-07-22 11:04:00.300599,None,True,User,,True,26,None,None,8994,Melilo,True,False,False,False,True
 None,2014-07-22 11:31:37.568410,None,True,User,,True,131,None,None,8995,peecord,True,False,False,False,True
 None,2014-07-22 12:18:36.527118,None,True,User,,True,2,None,AAAS,8996,srikant,True,False,False,False,True
-Vocaloids are cool! Megurine Luka is my favorite.,2014-07-22 12:26:44.853010,None,True,User,,True,1108,0,None,8997,Luka,True,False,False,False,True
+Vocaloids are cool! Megurine Luka is my favorite.,2014-07-22 12:26:44.853010,None,True,User,,True,1103,0,None,8997,Luka,True,False,False,False,True
 None,2014-07-22 13:49:40.960611,None,True,User,,True,1,None,ACS,8998,cmcc,True,False,False,False,True
 None,2014-07-22 14:00:26.385234,None,False,User,"Business of Science,Chemistry",True,2,None,sciencebanner,8999,kikidi321,True,False,False,False,True
 None,2014-07-22 14:14:09.040018,None,True,User,,True,0,None,AAAS,9000,theaic,True,False,False,False,True
@@ -8967,7 +8967,7 @@ None,2014-07-22 15:56:51.452795,None,False,User,,False,0,None,TRADOC,9004,cgunde
 None,2014-07-22 17:12:35.046458,None,False,User,,False,0,None,TRADOC,9005,crt_tradoc,True,False,False,False,True
 None,2014-07-22 17:59:24.154022,None,False,User,,True,8,None,sciencebanner,9006,Kaspar Snashall,True,False,False,False,True
 None,2014-07-22 18:17:28.592101,None,False,User,,False,0,None,TRADOC,9007,cgunders3,True,False,False,False,True
-Nostrumdamus,2014-07-22 20:42:41.530340,2,True,User,,True,220,0,None,9008,jompy,True,False,False,False,True
+Nostrumdamus,2014-07-22 20:42:41.530340,2,True,User,,True,219,0,None,9008,jompy,True,False,False,False,True
 None,2014-07-23 05:07:27.130993,None,True,User,"Computational Sciences,Global Change,Information Systems",True,0,None,ISACA,9009,jamie_pasfield@yahoo.co.uk,True,False,False,False,True
 None,2014-07-23 05:09:54.262333,None,True,User,"Business of Science,Energy,Global Change,Physics,Social Sciences",True,2,None,None,9010,igross,True,False,False,False,True
 None,2014-07-23 06:34:57.323013,None,False,User,,True,1,None,AAAS,9011,jetoney,True,False,False,False,True
@@ -9597,12 +9597,12 @@ None,2014-08-07 11:41:01.573341,None,False,User,,True,11,None,AAAS,9634,carbonat
 None,2014-08-07 13:09:18.405046,None,True,User,"Biology & Medicine,Engineered Technologies",True,0,None,sciencebanner,9635,duffeyt,True,False,False,False,True
 None,2014-08-07 13:19:19.825718,None,True,User,,True,0,None,AAAS,9636,Arka,True,False,False,False,True
 None,2014-08-07 13:54:09.140981,None,True,User,"Biology & Medicine,Chemistry,Engineered Technologies",True,0,None,AAAS,9637,giorgitd,True,False,False,False,True
-None,2014-08-07 14:25:05.603507,2,True,User,,False,967,None,None,9638,brigadier,True,False,False,False,True
+None,2014-08-07 14:25:05.603507,2,True,User,,False,964,None,None,9638,brigadier,True,False,False,False,True
 None,2014-08-07 17:13:16.001012,None,False,User,,True,3,None,sciencebanner,9639,milkplus,True,False,False,False,True
 None,2014-08-07 18:02:13.124723,None,False,User,,True,1,None,community,9640,willami,True,False,False,False,True
 None,2014-08-07 21:33:51.708680,None,False,User,,True,39,None,None,9641,crasterlikes,True,False,False,False,True
 None,2014-08-08 05:18:17.605653,None,False,User,,True,0,None,community,9642,Barrymaher12,True,False,False,False,True
-None,2014-08-08 12:47:06.785473,2,True,User,,True,1186,0,None,9643,pressurization,True,False,True,True,False
+None,2014-08-08 12:47:06.785473,2,True,User,,True,1180,0,None,9643,pressurization,True,False,True,True,False
 None,2014-08-08 13:14:06.929722,None,True,User,,True,0,None,None,9644,arichard,True,False,False,False,True
 None,2014-08-08 14:23:36.855274,None,False,User,,True,0,None,None,9645,paleofuture,True,False,False,False,True
 None,2014-08-08 16:55:02.579521,None,True,User,,True,0,None,None,9646,jPatel,True,False,False,False,True
@@ -9644,7 +9644,7 @@ None,2014-08-15 13:21:13.720830,None,True,User,"Biology & Medicine,Business of S
 None,2014-08-15 14:07:26.168867,None,False,User,,True,8,None,None,9682,Weslab,True,False,False,False,True
 None,2014-08-15 16:59:56.683621,None,True,User,,True,1,None,None,9683,sudeepsarkar,True,False,False,False,True
 None,2014-08-15 23:16:38.808147,None,False,User,,True,0,None,None,9684,ParticleFred,True,False,False,False,True
-None,2014-08-15 23:19:55.983163,2,True,User,,False,784,None,None,9685,stottlemeyer,True,False,False,False,True
+None,2014-08-15 23:19:55.983163,2,True,User,,False,783,None,None,9685,stottlemeyer,True,False,False,False,True
 None,2014-08-17 18:01:37.864673,None,False,User,,True,8,None,kurzweilai,9686,mike24,True,False,False,False,True
 None,2014-08-18 00:45:58.406313,None,False,User,"Agriculture,Biology & Medicine,Business of Science,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change,GWU-EMSE-6030,IEEE Spectrum 50th Anniversary,Information Systems,Mathematics,Physics,SciCast,Social Sciences",True,1,None,None,9687,Douglas Sheridan,True,False,False,False,True
 None,2014-08-18 12:54:35.287446,None,True,"University of North Carolina (Chapel Hill),User","Business of Science,Chemistry,Energy,Engineered Technologies,Global Change,Physics",True,1,None,None,9688,RWCall,True,False,False,False,True
@@ -9724,7 +9724,7 @@ None,2014-08-22 21:32:57.699452,None,True,User,,True,17,None,None,9761,Cygnus,Tr
 None,2014-08-22 23:25:57.006120,None,False,User,,True,0,None,None,9762,GiveMeData,True,False,False,False,True
 None,2014-08-23 09:39:30.599379,None,False,User,"Biology & Medicine,Energy,Engineered Technologies,Physics",True,0,None,None,9763,drschilling,True,False,False,False,True
 None,2014-08-24 03:10:44.149308,None,False,User,,True,7,None,kurzweilai,9764,BlackFish13,True,False,False,False,True
-None,2014-08-24 14:02:50.175910,None,True,"Virginia Tech,George Mason University,User",,True,44,1,None,9765,shreyas,True,True,True,True,True
+None,2014-08-24 14:02:50.175910,None,True,"Virginia Tech,George Mason University,User",,True,45,1,None,9765,shreyas,True,True,True,True,True
 None,2014-08-24 17:22:33.487945,None,False,User,,True,19,None,None,9766,angarrc,True,False,False,False,True
 None,2014-08-25 09:52:19.867621,None,False,User,,True,3,None,community,9767,Venomouz123,True,False,False,False,True
 None,2014-08-25 10:56:41.182082,None,False,User,"Agriculture,Biology & Medicine,Business of Science,Computational Sciences,Energy,Engineered Technologies,Global Change,Information Systems,Physics,SciCast,Social Sciences",True,1,None,None,9768,Bigheinie,True,False,False,False,True
@@ -9804,7 +9804,7 @@ None,2014-09-09 11:16:24.666063,None,False,User,,True,29,1,None,9841,Pkarimi,Tru
 None,2014-09-09 12:13:25.236878,None,False,User,,True,1,None,None,9842,karelovs,True,True,True,True,True
 None,2014-09-10 06:54:37.306046,None,False,User,,True,0,None,None,9843,magamoag,True,True,True,True,True
 None,2014-09-10 11:58:35.843316,None,True,User,,True,1,None,AAAS,9844,ckurland,True,True,True,True,True
-None,2014-09-10 16:44:09.716455,2,True,User,,True,738,None,None,9845,zmil,True,True,True,True,True
+None,2014-09-10 16:44:09.716455,2,True,User,,True,742,None,None,9845,zmil,True,True,True,True,True
 None,2014-09-11 00:06:45.720338,None,False,User,,True,0,None,community,9846,casaindrawagner,True,True,True,True,True
 None,2014-09-11 09:52:28.929105,None,False,User,,True,0,None,None,9847,robdanilo,True,True,True,True,True
 None,2014-09-11 10:09:05.438313,None,False,User,"Agriculture,Business of Science,Energy,Global Change,Social Sciences",True,1,None,None,9848,dillonlanius,True,True,True,True,True
@@ -9946,7 +9946,7 @@ None,2014-10-10 17:17:31.092136,None,False,User,,True,2,None,None,9983,Gypsy,Tru
 None,2014-10-11 15:50:02.660860,None,False,User,,True,0,None,None,9984,jazztothebone,True,True,True,True,True
 None,2014-10-12 10:11:03.603050,None,False,User,,True,0,None,None,9985,gdaniotti,True,True,True,True,True
 None,2014-10-12 23:21:03.466314,None,False,User,,True,1,None,None,9986,smdaglia,True,True,True,True,True
-None,2014-10-13 02:40:41.155871,None,True,User,"Business of Science,Energy,Engineered Technologies,SciCast",True,2,None,None,9987,richmignogna,True,True,True,True,True
+"I've worked in the area of technology forecasting for many years and teach a two-day workshop on Technological Forecasting for Science &amp; Technology Intelligence.  Visit <a href=""http://www.temi.us"" rel=""nofollow"">www.temi.us</a> for further information on that course.",2014-10-13 02:40:41.155871,None,True,User,"Business of Science,Energy,Engineered Technologies,SciCast",True,3,0,None,9987,richmignogna,True,True,True,True,True
 None,2014-10-14 01:45:07.683128,None,False,User,,True,1,None,flu,9988,suraj,True,True,True,True,True
 None,2014-10-14 01:49:05.476163,None,False,User,,True,0,None,flu,9989,SS,True,True,True,True,True
 None,2014-10-15 10:21:39.622729,None,True,User,,True,4,1,flu,9990,damnenx,True,True,True,True,True
@@ -9964,7 +9964,7 @@ None,2014-10-19 18:40:45.142271,None,True,User,,True,5,0,None,10001,onpoint,True
 None,2014-10-20 12:33:22.984473,None,True,"TRADOC,IEEE_TRADOC,User",,True,3,None,None,10002,justin.r.lee,True,True,True,True,True
 None,2014-10-20 12:42:57.237597,None,True,"TRADOC,User",,True,1,None,AAAS,10003,cinabray,True,True,True,True,True
 None,2014-10-20 13:23:20.011832,None,True,User,,True,1,None,None,10004,Kevin.moyer,True,True,True,True,True
-None,2014-10-20 14:16:42.784803,None,True,"Tournament,User",,True,18,None,None,10005,Dethen,True,True,True,True,True
+None,2014-10-20 14:16:42.784803,None,True,"Tournament,User",,True,25,None,None,10005,Dethen,True,True,True,True,True
 None,2014-10-20 14:54:59.063715,None,True,"Tournament,User",,True,4,None,None,10006,Hung Nguyen,True,True,True,True,True
 None,2014-10-21 09:54:48.748410,None,False,User,,True,1,None,None,10007,frizzlefry,True,True,True,True,True
 None,2014-10-21 10:08:45.739398,None,True,"Tournament,User",,True,2,1,None,10008,jwhit,True,True,True,True,True
@@ -9984,7 +9984,7 @@ None,2014-10-23 14:52:37.650689,None,False,User,,True,2,None,None,10021,cagee,Tr
 None,2014-10-23 19:17:03.295293,None,False,"IEEE,User","Biology & Medicine,Computational Sciences,Energy,Engineered Technologies",True,0,1,IEEE_Fellows,10022,Mayuresh,True,True,True,True,True
 None,2014-10-23 21:32:37.517115,None,False,User,,True,0,None,community,10023,Irina,True,True,True,True,True
 None,2014-10-24 11:45:44.348752,None,False,User,,True,1,None,PRNEWS,10024,cpopell,True,True,True,True,True
-None,2014-10-24 13:42:22.308135,2,True,User,,True,154,None,None,10025,?tranger,True,True,True,True,True
+None,2014-10-24 13:42:22.308135,2,True,User,,True,153,None,None,10025,?tranger,True,True,True,True,True
 None,2014-10-24 22:21:37.197904,None,False,"Admin,UserAdmin,QuestionAdmin,Internal,BannerAdmin,User",,True,0,None,None,10026,caroline.abramson,True,True,True,True,True
 This is harder than it looked at first.,2014-10-26 19:31:51.700558,2,True,User,,True,441,0,None,10027,zhangqiang,True,False,True,True,False
 None,2014-10-26 21:54:26.804229,None,False,User,,True,0,None,flu,10028,RoniR,True,True,True,True,True
@@ -10020,7 +10020,7 @@ None,2014-11-05 10:55:22.351208,None,False,User,,True,3,None,None,10057,antura,T
 None,2014-11-05 11:00:31.270770,None,True,User,,True,2,None,None,10058,Ruziklan,True,True,True,True,True
 None,2014-11-05 11:41:03.229805,2,True,User,"Biology & Medicine,Computational Sciences,Social Sciences",True,32,1,kdnuggets,10059,porejide,True,True,True,True,True
 None,2014-11-05 12:00:59.175497,None,True,User,,True,0,None,None,10060,adamdboult,True,True,True,True,True
-None,2014-11-05 12:17:50.468366,None,True,User,,True,7,None,None,10061,adg,True,True,True,True,True
+None,2014-11-05 12:17:50.468366,None,True,User,,True,6,None,None,10061,adg,True,True,True,True,True
 None,2014-11-05 12:30:06.579508,None,False,User,,True,2,None,None,10062,Gurduloo,True,True,True,True,True
 None,2014-11-05 12:45:00.713981,None,True,User,,True,11,1,None,10063,shabbychef,False,False,False,False,False
 None,2014-11-05 12:54:57.377126,None,True,User,,True,39,1,None,10064,eniteris,False,False,False,False,False
@@ -10036,7 +10036,7 @@ None,2014-11-05 13:49:16.059116,None,False,User,,True,2,None,flu,10073,dfconant,
 None,2014-11-05 13:51:12.096814,2,True,User,,True,160,0,None,10074,challquist,True,True,True,True,True
 None,2014-11-05 13:56:46.048310,None,False,User,,True,3,None,None,10075,katharing,True,True,True,True,True
 None,2014-11-05 13:59:20.804144,None,False,User,"Biology & Medicine,Energy,Global Change,Social Sciences",True,5,None,None,10076,Bjartur,True,True,True,True,True
-None,2014-11-05 14:15:56.406861,2,True,User,,True,1993,0,None,10077,Faber,True,False,True,True,True
+None,2014-11-05 14:15:56.406861,2,True,User,,True,1998,0,None,10077,Faber,True,False,True,True,True
 None,2014-11-05 14:19:25.520060,None,False,User,,True,1,None,None,10078,PeterL,True,True,True,True,True
 None,2014-11-05 14:21:55.498667,None,False,User,,True,0,None,None,10079,liambrenn,True,True,True,True,True
 None,2014-11-05 15:18:51.806859,None,False,User,,True,3,1,None,10080,lectramag,True,True,True,True,True
@@ -10097,7 +10097,7 @@ None,2014-11-07 21:37:29.807271,None,False,User,,True,9,None,blog,10134,tskuzzy,
 None,2014-11-08 00:15:54.395301,2,False,User,,True,16,None,None,10135,Challquist,True,True,True,True,True
 None,2014-11-08 16:49:31.662120,None,True,User,,True,0,None,blog,10136,Tejburns,True,True,True,True,True
 None,2014-11-08 17:13:23.422238,None,False,User,,True,3,None,None,10137,sgenberg,True,True,True,True,True
-None,2014-11-08 19:46:23.573095,2,True,User,,True,292,1,blog,10138,himmel.ca,True,True,True,True,True
+None,2014-11-08 19:46:23.573095,2,True,User,,True,293,1,blog,10138,himmel.ca,True,True,True,True,True
 None,2014-11-08 22:28:22.159087,None,True,User,,True,0,None,None,10139,resonator,True,True,True,True,True
 None,2014-11-08 22:57:07.959364,None,True,User,"Energy,Engineered Technologies,Physics,Prize-Eligible Dec & Feb,Prize-Eligible Nov & Jan",True,4,None,None,10140,itaniumatrix,True,True,True,True,True
 None,2014-11-08 23:56:21.265487,2,True,User,"Prize-Eligible Dec & Feb,Prize-Eligible Nov & Jan",True,34,None,None,10141,sjrosen,True,True,True,True,True
@@ -10121,7 +10121,7 @@ None,2014-11-10 13:49:32.868463,None,False,User,,True,8,None,None,10158,littleca
 None,2014-11-10 14:18:00.863494,None,False,User,,True,0,None,None,10159,mada,True,True,True,True,True
 None,2014-11-10 14:22:38.154390,None,True,"Massachusetts Institute of Technology,User",,True,14,None,None,10160,vab,True,True,True,True,True
 None,2014-11-10 16:17:12.815616,None,True,User,,True,1,None,None,10161,brianshiro,True,True,True,True,True
-None,2014-11-10 18:14:42.247699,2,True,User,,True,426,0,None,10162,finch,True,False,True,True,True
+None,2014-11-10 18:14:42.247699,2,True,User,,True,442,0,None,10162,finch,True,False,True,True,True
 None,2014-11-10 22:04:27.997603,None,False,User,,True,0,None,community,10163,marvajacobs588,True,True,True,True,True
 None,2014-11-10 23:18:19.384179,2,True,User,,True,223,None,None,10164,cynthiabarmore,True,True,True,True,True
 None,2014-11-11 09:17:16.487411,None,False,User,,True,0,None,None,10165,jastoblasto,True,True,True,True,True
@@ -10162,7 +10162,7 @@ None,2014-11-14 14:48:06.922472,None,False,User,,True,3,None,None,10199,Arcuru,T
 None,2014-11-15 00:01:56.867051,None,False,User,,True,0,None,None,10200,kisakisa,True,True,True,True,True
 None,2014-11-15 08:32:51.909354,None,False,User,,True,14,1,None,10201,chrismiller,True,True,True,True,True
 None,2014-11-15 18:55:13.137080,None,True,User,,True,2,None,None,10202,A_Deluca,True,True,True,True,True
-None,2014-11-16 19:31:11.203476,2,True,User,,True,359,0,None,10203,vinicius,True,False,True,True,False
+None,2014-11-16 19:31:11.203476,2,True,User,,True,363,0,None,10203,vinicius,True,False,True,True,False
 None,2014-11-17 01:32:02.480989,2,True,User,"Biology & Medicine,Chemistry,Prize-Eligible Dec & Feb,Prize-Eligible Nov & Jan",True,9,None,None,10204,alexxu,True,True,True,True,True
 None,2014-11-17 08:34:30.555248,None,False,User,,True,1,None,AAAS,10205,Perscentmed,True,True,True,True,True
 None,2014-11-17 12:11:23.042124,None,False,User,,True,0,None,None,10206,new_user73,True,True,True,True,True
@@ -10188,10 +10188,10 @@ None,2014-11-19 18:17:30.070628,2,True,User,,True,12,0,None,10225,Ashley,True,Fa
 None,2014-11-20 01:26:01.370912,None,False,User,,True,1,None,community,10226,GOantonio2,True,True,True,True,True
 None,2014-11-20 02:12:24.647982,None,True,User,"Computational Sciences,Global Change,Information Systems,Mathematics,Prize-Eligible Dec & Feb,Prize-Eligible Nov & Jan",True,22,None,None,10227,marknau,True,True,True,True,True
 None,2014-11-20 07:55:00.798923,None,False,User,,True,0,None,community,10228,E,True,True,True,True,True
-None,2014-11-20 13:13:04.705725,2,True,User,,True,389,0,None,10229,Market Snodsbury,True,False,False,True,False
+None,2014-11-20 13:13:04.705725,2,True,User,,True,388,0,None,10229,Market Snodsbury,True,False,False,True,False
 None,2014-11-20 16:40:48.514286,None,False,User,,True,1,None,None,10230,Jim Lucas,True,True,True,True,True
 None,2014-11-20 20:50:32.334520,None,True,User,,True,4,None,None,10231,reel1234,True,True,True,True,True
-None,2014-11-20 23:41:15.040246,2,True,User,,True,266,0,None,10232,tsch??,True,False,True,True,False
+None,2014-11-20 23:41:15.040246,2,True,User,,True,288,0,None,10232,tsch??,True,False,True,True,False
 None,2014-11-21 04:46:06.312785,None,False,User,,True,0,None,None,10233,bakkali,True,True,True,True,True
 None,2014-11-21 11:06:35.293669,None,False,User,,True,5,None,flu,10234,stworich,True,True,True,True,True
 None,2014-11-21 23:16:42.867979,None,False,User,"Mathematics,Prize-Eligible Dec & Feb,Prize-Eligible Nov & Jan",True,2,None,None,10235,Chess Traveler,True,True,True,True,True
@@ -10210,7 +10210,7 @@ None,2014-11-25 05:00:24.192417,None,False,User,"Biology & Medicine,Computationa
 None,2014-11-25 06:26:24.957547,None,False,User,"Computational Sciences,IEEE Spectrum,Information Systems,Mathematics",True,3,None,None,10248,tjohnson314,True,True,True,True,True
 None,2014-11-25 11:57:54.901697,None,False,User,,True,0,None,None,10249,ghq51,True,True,True,True,True
 None,2014-11-25 15:00:42.667701,None,True,User,,True,8,1,None,10250,cheneme,True,True,True,True,True
-None,2014-11-25 19:38:52.352456,2,True,User,,True,22,0,None,10251,turing,True,False,False,True,False
+None,2014-11-25 19:38:52.352456,2,True,User,,True,20,0,None,10251,turing,True,False,False,True,False
 None,2014-11-25 19:54:55.696281,2,True,"Florida State University,New Mexico State University,User",,True,5,0,None,10252,Jack Shidt,True,True,True,True,True
 None,2014-11-26 13:06:33.592939,None,False,User,,True,0,None,None,10253,supremazy,True,True,True,True,True
 None,2014-11-26 17:18:07.044379,1,False,User,,True,230,None,None,10254,bobpee87,True,True,True,True,True
@@ -10220,11 +10220,11 @@ None,2014-11-28 06:47:22.824082,None,False,User,,True,51,None,None,10257,Leonora
 None,2014-11-28 07:56:23.552708,None,True,User,,True,1,None,None,10258,tla,True,True,True,True,True
 None,2014-11-28 15:16:25.846115,None,True,User,,True,0,None,None,10259,burkeje,True,True,True,True,True
 None,2014-11-28 15:37:49.746803,2,True,User,,True,279,0,None,10260,raffles,True,False,False,False,False
-None,2014-11-28 20:02:23.394824,2,True,User,,True,122,0,None,10261,invictus,True,True,True,True,True
-None,2014-11-29 16:34:20.503441,2,True,User,,True,102,0,None,10262,tyrion,True,False,False,True,False
+None,2014-11-28 20:02:23.394824,2,True,User,,True,121,0,None,10261,invictus,True,True,True,True,True
+None,2014-11-29 16:34:20.503441,2,True,User,,True,111,0,None,10262,tyrion,True,False,False,True,False
 None,2014-11-30 01:40:02.276214,2,True,User,,True,31,0,None,10263,kretek,True,False,True,True,False
 None,2014-11-30 12:58:35.218073,None,False,User,"Business of Science,Global Change,Physics",True,1,None,community,10264,Alexslug,True,True,True,True,True
-None,2014-11-30 23:10:03.101003,2,True,User,,True,48,0,None,10265,solaire,True,False,True,True,False
+None,2014-11-30 23:10:03.101003,2,True,User,,True,55,0,None,10265,solaire,True,False,True,True,False
 None,2014-12-01 00:06:51.117575,None,True,User,,True,0,None,None,10266,DanLetovsky,True,True,True,True,True
 None,2014-12-01 05:15:17.338290,None,False,User,,True,12,None,None,10267,HotJoe,True,True,True,True,True
 None,2014-12-01 06:35:07.621920,None,False,User,,True,0,None,None,10268,Smurfnturf,True,True,True,True,True
@@ -10261,7 +10261,7 @@ None,2014-12-02 00:44:36.063168,None,True,User,,True,1,1,None,10298,pieterabbeel
 None,2014-12-02 00:47:13.425377,None,False,User,,True,0,None,None,10299,nicolaennio,True,True,True,True,True
 None,2014-12-02 00:58:15.621879,None,True,User,,True,0,None,None,10300,rainer93138,True,True,True,True,True
 None,2014-12-02 01:02:25.087365,1,True,User,,True,2,1,None,10301,sbowman,True,True,True,True,True
-None,2014-12-02 01:20:05.357886,2,True,User,,False,117,None,None,10302,jmorrow,True,True,True,True,True
+None,2014-12-02 01:20:05.357886,2,True,User,,False,116,None,None,10302,jmorrow,True,True,True,True,True
 None,2014-12-02 01:42:51.596624,2,True,User,,True,22,0,None,10303,technos,True,False,True,True,False
 None,2014-12-02 01:43:29.134980,None,False,User,,True,1,None,None,10304,oiwah,True,True,True,True,True
 None,2014-12-02 01:51:33.838757,None,False,User,,True,1,None,None,10305,ifog,True,True,True,True,True
@@ -10310,7 +10310,7 @@ None,2014-12-02 12:48:13.178997,None,False,User,,True,1,None,None,10347,bchen3,T
 None,2014-12-02 12:50:15.477430,1,True,User,,True,1,None,None,10348,kulesza,True,True,True,True,True
 None,2014-12-02 12:56:00.109085,None,False,User,,True,0,None,None,10349,shimon8282,True,True,True,True,True
 None,2014-12-02 12:56:17.553451,None,True,User,,True,3,None,None,10350,voloch.luis,True,True,True,True,True
-None,2014-12-02 13:11:11.518394,2,True,User,,True,74,0,None,10351,tecton,True,True,True,True,True
+None,2014-12-02 13:11:11.518394,2,True,User,,True,73,0,None,10351,tecton,True,True,True,True,True
 None,2014-12-02 13:46:08.287362,None,False,User,,True,1,None,None,10352,mshokoohi,True,True,True,True,True
 None,2014-12-02 13:55:33.873114,None,False,User,,True,1,None,None,10353,mueen,True,True,True,True,True
 None,2014-12-02 14:27:43.896388,None,False,User,,True,2,None,None,10354,ming,True,True,True,True,True
@@ -10342,7 +10342,7 @@ None,2014-12-03 17:44:11.287714,None,True,User,,True,1,1,None,10379,timering,Tru
 None,2014-12-03 17:57:15.558484,None,True,User,,True,1,1,None,10380,Szepi,True,True,True,True,True
 None,2014-12-03 18:54:38.466837,None,False,User,,True,0,None,None,10381,rg,True,True,True,True,True
 None,2014-12-03 20:49:53.731871,None,False,User,,True,1,None,None,10382,Shunan,True,True,True,True,True
-None,2014-12-03 23:47:31.493039,2,False,User,,False,44,None,None,10383,nostrocrates,True,True,True,True,True
+None,2014-12-03 23:47:31.493039,2,False,User,,False,43,None,None,10383,nostrocrates,True,True,True,True,True
 None,2014-12-04 00:08:08.734610,None,False,User,,True,1,None,community,10384,helencabaniss184,True,True,True,True,True
 None,2014-12-04 00:20:03.893430,None,True,User,,True,13,0,None,10385,neuroatypical,True,False,True,True,True
 None,2014-12-04 02:52:19.041611,None,False,User,,True,2,None,None,10386,J,True,True,True,True,True
@@ -10356,7 +10356,7 @@ None,2014-12-04 12:02:30.823125,None,False,User,,True,1,None,None,10393,jhchoi09
 None,2014-12-04 17:12:53.127747,None,False,User,,True,0,None,None,10394,bonezone,True,True,True,True,True
 None,2014-12-04 17:41:43.391277,None,False,User,,True,0,None,None,10395,foxtrot,True,True,True,True,True
 None,2014-12-04 23:34:36.574037,2,True,User,,True,74,0,None,10396,henderson,True,False,False,False,False
-None,2014-12-05 00:03:27.255672,2,True,User,,False,56,None,None,10397,samsa,True,True,True,True,True
+None,2014-12-05 00:03:27.255672,2,True,User,,False,55,None,None,10397,samsa,True,True,True,True,True
 None,2014-12-05 02:19:13.942871,None,False,User,,True,1,None,None,10398,malshedivat,True,True,True,True,True
 None,2014-12-05 08:24:48.124592,None,True,User,,True,1,None,None,10399,Vijay,True,True,True,True,True
 None,2014-12-05 08:45:11.807214,None,False,User,,True,1,None,None,10400,bbbala,True,True,True,True,True
@@ -10364,7 +10364,7 @@ None,2014-12-05 11:16:00.068925,2,True,User,,True,169,0,None,10401,wooster,True,
 None,2014-12-05 11:35:06.884287,None,False,User,,True,3,1,None,10402,ChrisSmith,True,True,True,True,True
 None,2014-12-05 15:50:25.028354,None,True,User,,True,1,None,None,10403,loyal,True,True,True,True,True
 None,2014-12-05 18:16:30.054098,None,False,User,,True,1,None,None,10404,bmcmahan,True,True,True,True,True
-None,2014-12-05 19:57:19.592321,2,True,User,,True,286,0,None,10405,qoheleth,True,False,False,False,False
+None,2014-12-05 19:57:19.592321,2,True,User,,True,293,0,None,10405,qoheleth,True,False,False,False,False
 None,2014-12-05 20:38:45.461424,1,False,User,,True,1,None,None,10406,dliang,True,True,True,True,True
 None,2014-12-05 20:41:53.335719,None,False,User,,True,1,None,None,10407,hhe,True,True,True,True,True
 None,2014-12-05 20:43:19.332594,None,False,User,,True,0,None,None,10408,hatano,True,True,True,True,True
@@ -10456,7 +10456,7 @@ None,2014-12-10 12:07:59.762836,None,True,User,,True,1,None,None,10493,Charles4,
 None,2014-12-10 22:53:31.950505,None,False,User,,True,0,None,None,10494,Rshames,True,True,True,True,True
 None,2014-12-11 13:28:59.408230,None,False,User,,True,3,0,None,10495,provie14,True,True,True,True,True
 None,2014-12-12 12:34:30.270001,None,False,User,,True,1,None,flu,10496,magg89,True,True,True,True,True
-None,2014-12-13 10:07:39.194472,None,False,User,,False,13,None,None,10497,mornstag,True,True,True,True,True
+None,2014-12-13 10:07:39.194472,None,False,User,,False,11,None,None,10497,mornstag,True,True,True,True,True
 None,2014-12-13 15:44:09.018184,None,False,User,,True,30,None,None,10498,Czolgosz,True,True,True,True,True
 None,2014-12-14 01:22:58.568943,None,False,User,,True,1,None,None,10499,hotwheel89,True,True,True,True,True
 None,2014-12-14 10:15:53.216862,2,False,User,,False,9,None,None,10500,set4stn,True,True,True,True,True
@@ -10465,18 +10465,18 @@ None,2014-12-14 14:06:51.376543,2,False,User,,False,6,None,None,10502,frenchlumb
 None,2014-12-15 09:48:09.342106,1,False,User,,True,2,None,None,10503,th,True,True,True,True,True
 None,2014-12-16 09:45:23.900804,None,False,User,,True,0,None,None,10504,hobta,True,True,True,True,True
 None,2014-12-16 09:45:49.446176,None,False,User,,True,0,None,None,10505,Rawlex,True,True,True,True,True
-None,2014-12-16 11:41:18.057829,2,True,User,,True,40,0,None,10506,dubliner,True,False,True,True,False
+None,2014-12-16 11:41:18.057829,2,True,User,,True,47,0,None,10506,dubliner,True,False,True,True,False
 None,2014-12-16 15:03:11.885505,None,True,User,,True,3,None,None,10507,borysiatko,True,True,True,True,True
 None,2014-12-17 03:16:48.476777,None,False,User,"Energy,Engineered Technologies,Global Change,Prize-Eligible Dec & Feb,Prize-Eligible Nov & Jan",True,0,None,None,10508,Qwerty Uiop,True,True,True,True,True
 None,2014-12-17 17:29:28.132662,2,True,User,,True,2,None,None,10509,rcohle,True,True,True,True,True
 None,2014-12-17 17:55:07.495986,None,True,User,,True,3,None,None,10510,Gt0595c,True,True,True,True,True
 None,2014-12-17 18:01:02.445505,None,True,User,,True,11,0,None,10511,Doctor L,True,False,True,True,False
 None,2014-12-17 22:14:56.850774,2,True,User,,True,50,0,None,10512,Mischa,True,False,True,True,True
-None,2014-12-18 01:10:29.370323,2,True,User,,True,15,0,None,10513,livingston,True,False,True,True,True
-None,2014-12-18 10:44:42.496285,2,True,User,,True,81,0,None,10514,lfusco,True,False,True,True,False
+None,2014-12-18 01:10:29.370323,2,True,User,,True,22,0,None,10513,livingston,True,False,True,True,True
+None,2014-12-18 10:44:42.496285,2,True,User,,True,88,0,None,10514,lfusco,True,False,True,True,False
 None,2014-12-18 11:38:18.126392,None,True,User,,True,1,None,flu,10515,d.Gedymin,True,True,True,True,True
-None,2014-12-19 13:47:15.158284,2,True,User,,True,44,0,None,10516,gowest,True,False,True,True,True
-None,2014-12-19 15:20:49.970539,2,True,User,,True,16,0,None,10517,Gimbals,True,False,True,True,True
+None,2014-12-19 13:47:15.158284,2,True,User,,True,47,0,None,10516,gowest,True,False,True,True,True
+None,2014-12-19 15:20:49.970539,2,True,User,,True,16,0,None,10517,Gimbals,True,False,True,True,False
 None,2014-12-19 17:35:17.541562,2,True,User,,True,143,None,None,10518,consumer,True,True,True,True,True
 None,2014-12-20 12:30:19.808789,2,True,User,,True,29,0,None,10519,khaleesi,True,False,True,True,False
 None,2014-12-20 23:25:45.825137,None,False,User,,True,3,None,None,10520,cosmicpaul,True,True,True,True,True
@@ -10486,18 +10486,18 @@ None,2014-12-21 18:22:27.689946,2,True,User,,True,23,0,None,10523,defrag,True,Fa
 None,2014-12-21 21:30:13.873576,None,True,User,,True,0,None,None,10524,mcorning,True,True,True,True,True
 None,2014-12-22 10:18:49.516854,None,False,User,"Global Change,Social Sciences",True,0,None,aaas,10525,laurfish,True,True,True,True,True
 None,2014-12-22 11:29:00.598756,2,True,User,,True,45,0,None,10526,The Tenth,True,False,True,True,True
-None,2014-12-22 12:32:09.963688,2,True,User,,True,42,0,AAAS,10527,404,True,False,True,True,False
+None,2014-12-22 12:32:09.963688,2,True,User,,True,64,0,AAAS,10527,404,True,False,True,True,False
 None,2014-12-22 19:10:27.471986,2,True,User,,True,26,0,None,10528,mdanver,True,False,True,True,True
-None,2014-12-23 13:54:45.036376,2,True,User,,True,22,0,None,10529,Melting Point,True,False,True,True,False
+None,2014-12-23 13:54:45.036376,2,True,User,,True,34,0,None,10529,Melting Point,True,False,True,True,False
 None,2014-12-23 19:31:12.779721,2,True,User,,True,20,0,None,10530,hypotenuse,True,False,True,True,False
 None,2014-12-24 10:50:10.923658,None,True,User,,True,23,0,None,10531,Pan Am,True,False,True,True,True
 None,2014-12-24 12:15:53.393255,2,True,User,,True,22,0,None,10532,superstructure,True,False,True,True,False
 None,2014-12-24 17:43:31.773895,2,True,User,,True,33,0,None,10533,braunschweiger,True,False,True,True,False
-None,2014-12-26 12:46:39.470418,2,True,User,,True,143,None,None,10534,Bernoulli,True,True,True,True,True
+None,2014-12-26 12:46:39.470418,2,True,User,,True,142,None,None,10534,Bernoulli,True,True,True,True,True
 None,2014-12-27 12:42:03.511437,2,True,User,,True,103,0,None,10535,endex45,True,False,False,False,False
 None,2014-12-27 17:14:38.720005,2,True,User,,True,27,None,None,10536,induction,True,True,True,True,True
 None,2014-12-27 18:25:45.598014,None,False,User,,True,8,None,None,10537,anthony333,True,True,True,True,True
-None,2014-12-27 21:16:44.498551,2,True,User,,True,52,None,None,10538,alkali,True,True,True,True,True
+None,2014-12-27 21:16:44.498551,2,True,User,,True,51,None,None,10538,alkali,True,True,True,True,True
 None,2014-12-28 11:48:43.658567,None,False,User,,True,65,None,None,10539,rounders,True,True,True,True,True
 None,2014-12-28 12:12:20.383628,2,True,User,,True,19,None,None,10540,crice,True,True,True,True,True
 None,2014-12-28 13:46:51.319296,None,False,User,,True,2,None,None,10541,Jennacj,True,True,True,True,True
@@ -10563,7 +10563,7 @@ None,2015-01-10 01:07:13.770578,2,True,User,,True,18,None,None,10600,estudio,Tru
 None,2015-01-11 01:31:34.420069,2,True,User,,True,40,None,IEEESpectrumMag,10601,sources,True,True,True,True,True
 None,2015-01-11 11:11:48.552624,None,True,User,,True,1,None,None,10602,dog_stone,True,True,True,True,True
 None,2015-01-11 11:37:01.401117,2,True,User,,True,61,0,None,10603,Starry,True,False,True,True,False
-None,2015-01-11 12:18:22.443463,2,True,User,,True,23,0,IEEESpectrumMag,10604,fmertz,True,False,True,True,False
+None,2015-01-11 12:18:22.443463,2,True,User,,True,27,0,IEEESpectrumMag,10604,fmertz,True,False,True,True,False
 None,2015-01-11 14:40:30.702516,None,False,User,,True,18,None,None,10605,Daumen Nase,True,True,True,True,True
 None,2015-01-11 19:29:06.767920,2,True,User,,True,8,None,IEEESpectrumMag,10606,Milker,True,True,True,True,True
 None,2015-01-11 19:30:00.785000,None,False,User,,True,0,None,community,10607,michaeldahar878,True,True,True,True,True
@@ -10583,7 +10583,7 @@ None,2015-01-13 11:17:01.585080,None,True,User,,True,1,None,IEEESpectrumMag,1062
 None,2015-01-13 11:56:03.713257,None,True,User,"Biology & Medicine,Computational Sciences,Energy,Engineered Technologies,Information Systems,Mathematics,Physics",True,1,None,None,10621,nThanksForAllTheFish,True,True,True,True,True
 None,2015-01-13 12:04:33.223683,2,True,User,,True,19,0,None,10622,inyeaka,True,False,False,True,False
 None,2015-01-13 13:10:14.435663,None,True,User,,True,16,None,IEEESpectrumMag,10623,metatarsal,True,True,True,True,True
-None,2015-01-13 13:27:39.592742,None,True,User,,True,11,None,None,10624,rfm75,True,True,True,True,True
+None,2015-01-13 13:27:39.592742,None,True,User,,True,13,None,None,10624,rfm75,True,True,True,True,True
 None,2015-01-13 13:33:58.557364,None,True,User,,True,0,None,IEEESpectrumMag,10625,rmh,True,True,True,True,True
 None,2015-01-13 15:38:01.853403,2,True,User,,True,30,0,IEEESpectrumMag,10626,scitech1979,True,False,True,True,False
 None,2015-01-13 16:14:09.002838,2,True,User,,True,35,0,None,10627,jenkins,True,False,True,False,False
@@ -10601,11 +10601,11 @@ None,2015-01-14 23:13:26.594361,2,True,User,,True,51,None,IEEESpectrumMag,10638,
 None,2015-01-15 00:04:40.334863,None,False,User,,True,1,None,None,10639,ernestjohnsick,False,False,False,False,False
 None,2015-01-15 11:44:45.294604,2,False,User,,True,158,None,None,10640,Freddy,True,False,True,False,True
 None,2015-01-15 13:15:50.572450,None,False,User,,True,1,None,None,10641,jazzfish,False,False,False,False,False
-None,2015-01-15 14:16:55.488302,2,True,User,,True,10,None,IEEESpectrumMag,10642,Bulbasaur,False,False,False,False,False
+None,2015-01-15 14:16:55.488302,2,True,User,,True,13,None,IEEESpectrumMag,10642,Bulbasaur,False,False,False,False,False
 None,2015-01-15 14:46:44.212407,None,True,User,,True,0,0,None,10643,DrJMunozMx,True,False,True,False,True
 None,2015-01-15 14:53:05.070954,2,True,User,,True,100,0,None,10644,disheveled,False,False,False,False,False
 None,2015-01-15 15:48:10.651959,None,True,User,,True,9,None,IEEESpectrumMag,10645,ctrl-alt-delete,False,False,False,False,False
-None,2015-01-15 16:35:05.878587,None,True,User,,True,5,0,IEEESpectrumMag,10646,Cardiff,True,False,False,True,False
+None,2015-01-15 16:35:05.878587,2,True,User,,True,11,0,IEEESpectrumMag,10646,Cardiff,True,False,False,True,False
 None,2015-01-15 16:52:55.839923,None,True,User,,True,6,None,IEEESpectrumMag,10647,poppers,False,False,False,False,False
 None,2015-01-15 17:27:53.511357,2,True,User,,True,18,None,None,10648,Eugenides,True,False,True,False,True
 None,2015-01-16 05:38:28.764014,None,False,User,,True,1,None,None,10649,Holson,False,False,False,False,False
@@ -10613,12 +10613,12 @@ None,2015-01-16 09:38:05.960288,None,True,User,"Biology & Medicine,Computational
 None,2015-01-16 11:13:53.351279,None,False,User,,True,0,None,kdnuggets,10651,jyotirn,True,False,True,False,True
 None,2015-01-16 12:45:43.120087,2,True,User,,True,34,None,IEEESpectrumMag,10652,crashtest,False,False,False,False,False
 None,2015-01-16 13:07:38.038405,None,True,User,,True,6,None,None,10653,xtlm,False,False,False,False,False
-None,2015-01-16 15:44:47.176290,2,True,User,,True,11,None,IEEESpectrumMag,10654,pdonner,False,False,False,False,False
+None,2015-01-16 15:44:47.176290,2,True,User,,True,35,None,IEEESpectrumMag,10654,pdonner,False,False,False,False,False
 None,2015-01-16 16:11:25.395808,2,True,User,,True,55,None,None,10655,elfen magic,False,False,False,False,False
 None,2015-01-16 16:51:18.852133,2,True,User,,True,10,None,IEEESpectrumMag,10656,Smithers,False,False,False,False,False
 None,2015-01-16 21:03:27.679588,2,True,User,,True,29,None,None,10657,options,False,False,False,False,False
 None,2015-01-16 22:33:29.766897,None,False,User,,True,0,None,None,10658,joshuarnew,False,False,False,False,False
-None,2015-01-17 12:53:20.699657,2,True,User,,True,52,None,None,10659,Quorem,False,False,False,False,False
+None,2015-01-17 12:53:20.699657,2,True,User,,True,55,None,None,10659,Quorem,False,False,False,False,False
 None,2015-01-17 15:21:35.560461,2,True,User,,True,30,None,IEEESpectrumMag,10660,strictly,False,False,False,False,False
 None,2015-01-17 16:11:03.503502,None,True,User,,True,4,None,IEEESpectrumMag,10661,dustbinner,False,False,False,False,False
 None,2015-01-18 17:11:56.818491,None,True,User,,True,3,None,None,10662,therman,False,False,False,False,False
@@ -10634,12 +10634,12 @@ None,2015-01-20 21:40:34.520858,None,False,User,,True,2,None,None,10671,openthep
 None,2015-01-21 09:34:59.775656,None,False,User,,True,0,None,None,10672,ssanner,False,False,False,False,False
 None,2015-01-21 12:42:05.988694,2,True,User,,True,41,None,IEEESpectrumMag,10673,Prognose,False,False,False,False,False
 None,2015-01-21 14:48:08.156186,None,False,User,,True,0,None,None,10674,brunoob,False,False,False,False,False
-None,2015-01-21 14:54:29.904861,None,True,User,,True,9,None,IEEESpectrumMag,10675,Handel,False,False,False,False,False
+None,2015-01-21 14:54:29.904861,None,True,User,,True,14,None,IEEESpectrumMag,10675,Handel,False,False,False,False,False
 None,2015-01-21 15:09:53.689033,None,True,User,,True,2,None,None,10676,pastrop,True,False,True,False,True
 None,2015-01-21 17:18:38.261949,None,False,User,,True,1,None,None,10677,TatersGonnaT8,False,False,False,False,False
 None,2015-01-21 18:17:34.501098,2,True,User,,True,11,None,IEEESpectrumMag,10678,mst395,False,False,False,False,False
 None,2015-01-21 22:27:37.308369,None,True,User,,False,0,1,None,10679,mgawlik,True,False,True,False,True
-None,2015-01-21 23:38:06.152425,2,True,User,,True,64,None,IEEESpectrumMag,10680,march?,False,False,False,False,False
+None,2015-01-21 23:38:06.152425,2,True,User,,True,82,None,IEEESpectrumMag,10680,march?,False,False,False,False,False
 None,2015-01-21 23:38:59.518136,None,True,User,,True,0,None,IEEESpectrumMag,10681,abi,True,False,True,False,True
 None,2015-01-22 08:44:49.726956,None,False,User,"Computational Sciences,Energy,Engineered Technologies,Global Change,IEEE Spectrum,Information Systems",True,0,None,None,10682,Simon_TAK,True,False,True,False,True
 None,2015-01-22 15:37:43.568944,None,True,User,,True,7,None,IEEESpectrumMag,10683,Zerm,False,False,False,False,False
@@ -10653,7 +10653,7 @@ None,2015-01-23 01:47:25.552195,None,False,User,,True,0,None,None,10690,pogorely
 None,2015-01-23 04:56:16.173141,None,False,User,,True,0,None,None,10691,sohant86,True,False,True,False,True
 None,2015-01-23 05:37:48.033658,None,False,User,,True,0,None,None,10692,The_Foxinator,False,False,False,False,False
 None,2015-01-23 14:38:04.562375,None,False,User,,True,1,None,None,10693,botjunkie,False,False,False,False,False
-None,2015-01-23 21:11:48.129096,2,True,User,,True,31,None,IEEESpectrumMag,10694,scilark,False,False,False,False,False
+None,2015-01-23 21:11:48.129096,2,True,User,,True,38,None,IEEESpectrumMag,10694,scilark,False,False,False,False,False
 None,2015-01-23 23:00:14.569717,None,False,User,,True,0,None,community,10695,williamsjennifer773,True,False,True,False,True
 None,2015-01-24 11:28:12.461698,None,True,User,,True,0,0,None,10696,sebitz,True,False,True,False,True
 None,2015-01-24 15:03:15.568526,None,False,User,,True,0,None,community,10697,RobertEady888,True,False,True,False,True
@@ -10704,8 +10704,8 @@ None,2015-02-02 14:21:46.513955,None,True,User,,True,15,None,IEEESpectrumMag,107
 None,2015-02-02 15:02:10.956602,None,False,User,,True,0,None,IEEESpectrumMag,10742,jessieieee,True,False,True,False,True
 None,2015-02-02 15:51:54.363262,None,True,User,,True,3,None,IEEESpectrumMag,10743,mgoines,False,False,False,False,False
 None,2015-02-02 16:02:14.201104,None,False,User,,True,1,None,None,10744,gpel,True,False,True,False,True
-None,2015-02-02 16:04:05.169630,2,True,User,,True,16,None,None,10745,sql354,False,False,False,False,False
-None,2015-02-02 16:44:53.984091,2,True,User,,True,36,None,IEEESpectrumMag,10746,fkatz89,False,False,False,False,False
+None,2015-02-02 16:04:05.169630,2,True,User,,True,23,None,None,10745,sql354,False,False,False,False,False
+None,2015-02-02 16:44:53.984091,2,True,User,,True,44,None,IEEESpectrumMag,10746,fkatz89,False,False,False,False,False
 None,2015-02-02 17:01:17.178208,2,True,User,,True,8,None,None,10747,I Ching,False,False,False,False,False
 None,2015-02-02 17:25:54.096873,None,False,User,,True,1,None,IEEESpectrumMag,10748,abcde,True,False,True,False,True
 None,2015-02-02 17:34:44.507234,None,False,User,,True,1,None,None,10749,another,True,False,True,False,True
@@ -10721,7 +10721,7 @@ None,2015-02-03 10:16:50.848084,None,False,User,,True,28,0,IEEESpectrumMag,10758
 None,2015-02-03 12:09:33.357121,None,False,User,,True,4,1,IEEESpectrumMag,10759,Jeff,False,False,False,False,False
 None,2015-02-03 12:53:34.255534,None,True,User,,True,7,None,IEEESpectrumMag,10760,Girija,True,False,True,False,True
 None,2015-02-03 13:16:33.113968,None,False,User,,True,13,None,IEEESpectrumMag,10761,mmarrow,True,False,True,False,True
-None,2015-02-03 13:35:08.322658,None,True,User,,True,40,None,IEEESpectrumMag,10762,Theknifehoss,True,False,True,False,True
+None,2015-02-03 13:35:08.322658,None,True,User,,True,39,None,IEEESpectrumMag,10762,Theknifehoss,True,False,True,False,True
 None,2015-02-03 15:13:14.799903,None,False,User,,True,0,None,None,10763,avinjoshi,False,False,False,False,False
 None,2015-02-03 16:42:01.044230,None,True,User,,True,1,None,None,10764,tharookiewookie,True,False,True,False,True
 None,2015-02-03 16:53:22.475126,None,False,User,,True,3,None,None,10765,boop,True,False,True,False,True
@@ -10748,7 +10748,7 @@ None,2015-02-05 07:32:48.368987,None,True,User,,True,4,None,None,10785,halsall,T
 None,2015-02-05 10:12:48.473415,None,True,User,,True,0,None,None,10786,Nijanthan,True,False,True,False,True
 None,2015-02-05 11:28:24.588479,None,False,User,"Biology & Medicine,Business of Science,Computational Sciences,Energy,Engineered Technologies,Global Change,IEEE Spectrum,Information Systems,Mathematics,Physics,Prize-Eligible Dec & Feb,Prize-Eligible Nov & Jan",True,4,None,IEEESpectrumMag,10787,mngiggle,False,False,False,False,False
 None,2015-02-05 12:49:18.925273,None,True,User,,True,9,None,IEEESpectrumMag,10788,TwinBeam,True,False,True,False,True
-None,2015-02-05 13:05:42.577549,None,False,User,,True,9,None,IEEESpectrumMag,10789,arzcards,False,False,False,False,False
+None,2015-02-05 13:05:42.577549,None,False,User,,True,8,None,IEEESpectrumMag,10789,arzcards,False,False,False,False,False
 None,2015-02-05 15:23:52.900579,None,False,User,,True,1,None,None,10790,davidiach,False,False,False,False,False
 None,2015-02-05 15:32:08.470405,None,True,User,,True,5,None,IEEESpectrumMag,10791,dignam,False,False,False,False,False
 None,2015-02-05 16:22:22.820056,None,False,User,,True,1,None,IEEESpectrumMag,10792,treyr,True,False,True,False,True
@@ -10758,7 +10758,7 @@ None,2015-02-05 19:50:32.880333,None,False,User,,True,0,None,None,10795,skiyuki,
 None,2015-02-05 23:04:08.614686,None,True,User,,True,2,None,IEEESpectrumMag,10796,Brightspark,True,False,True,False,True
 None,2015-02-05 23:35:57.262559,None,False,User,,True,3,None,IEEESpectrumMag,10797,gangadevi.b15@gmail.com,True,False,True,False,True
 None,2015-02-06 01:38:06.080690,None,False,User,,True,1,None,IEEESpectrumMag,10798,amumtaz,True,False,True,False,True
-None,2015-02-06 02:54:03.173718,None,True,User,,True,49,None,None,10799,readyready15728,True,False,True,False,True
+None,2015-02-06 02:54:03.173718,None,True,User,,True,64,None,None,10799,readyready15728,True,False,True,False,True
 None,2015-02-06 09:38:22.567219,None,True,User,"Computational Sciences,Engineered Technologies,IEEE Spectrum,Mathematics",True,5,None,None,10800,shamisen,True,False,True,False,True
 None,2015-02-06 11:16:51.523065,None,True,User,,True,7,None,None,10801,velikovsky,True,False,True,False,True
 None,2015-02-06 11:20:37.895275,None,False,User,,True,0,None,IEEESpectrumMag,10802,kmatin65,True,False,True,False,True
@@ -10809,11 +10809,11 @@ None,2015-02-14 07:51:07.231633,None,False,User,,True,1,None,None,10846,Jbpa2,Fa
 None,2015-02-14 10:50:32.380633,None,True,User,,True,1,None,None,10847,MiciMac,True,False,True,False,True
 None,2015-02-14 20:13:21.717558,None,True,User,,True,2,None,None,10848,phuff,True,False,True,False,True
 None,2015-02-14 22:08:16.191871,2,True,User,,True,12,None,IEEESpectrumMag,10849,rhagweld,False,False,False,False,False
-None,2015-02-15 02:30:03.460025,2,True,User,,True,16,None,None,10850,Vegemite,False,False,False,False,False
+None,2015-02-15 02:30:03.460025,2,True,User,,True,19,None,None,10850,Vegemite,False,False,False,False,False
 None,2015-02-15 04:28:34.087206,2,True,User,,True,26,None,IEEESpectrumMag,10851,jaede,False,False,False,False,False
 None,2015-02-15 12:30:42.506283,2,True,User,,True,16,None,AAAS,10852,YTD,False,False,False,False,False
 None,2015-02-15 13:12:18.793656,None,True,User,"Biology & Medicine,Business of Science,Global Change,Information Systems,Social Sciences",True,0,None,None,10853,IanPitchford,True,False,True,False,True
-None,2015-02-15 13:46:23.496291,2,True,User,,True,47,None,AAAS,10854,carto,False,False,False,False,False
+None,2015-02-15 13:46:23.496291,2,True,User,,True,61,None,AAAS,10854,carto,False,False,False,False,False
 None,2015-02-15 16:31:21.593371,None,False,User,,True,0,None,None,10855,sgupta7,True,False,True,False,True
 None,2015-02-15 16:52:21.538828,2,True,User,,True,43,None,IEEESpectrumMag,10856,Nixon,False,False,False,False,False
 None,2015-02-15 20:46:45.075235,2,True,User,,True,16,None,chess,10857,iragarpen,False,False,False,False,False
@@ -10925,4 +10925,12 @@ None,2015-03-13 15:53:24.645006,None,True,User,,True,0,None,AAAS,10962,Baat Lai,
 None,2015-03-14 05:05:21.113339,None,False,User,"Agriculture,Biology & Medicine,Business of Science,Chemistry,Computational Sciences,Energy,Engineered Technologies,Global Change,GWU-EMSE-6030,IEEE Spectrum,Information Systems,Mathematics,New Prize-Eligible Feb,Physics,Prize-Eligible Dec & Feb",True,0,None,None,10963,QengHo,False,False,False,False,False
 None,2015-03-14 18:36:01.304692,None,True,User,,True,1,None,None,10964,matindu,True,False,True,False,True
 None,2015-03-15 23:17:48.295972,None,False,User,,True,0,None,None,10965,SuchIsLife,True,False,True,False,True
-None,2015-03-16 21:52:02.880402,None,True,User,,True,1,None,None,10966,Chelsea738,True,False,True,False,True
+None,2015-03-16 21:52:02.880402,None,True,User,,True,5,0,None,10966,Chelsea738,True,False,True,False,True
+None,2015-03-17 11:12:52.645651,None,False,User,,True,1,None,None,10967,palmerpj77,True,False,True,False,True
+None,2015-03-18 14:03:47.662418,None,True,User,,True,0,None,None,10968,fatimajahed,True,False,True,False,True
+None,2015-03-18 14:06:57.043311,None,False,User,,True,1,None,None,10969,jcmodli,True,False,True,False,True
+None,2015-03-18 14:07:30.330304,None,False,User,,True,2,None,None,10970,Huddini,False,False,False,False,False
+None,2015-03-18 14:07:36.682318,None,True,User,,True,0,None,None,10971,wflaschka,True,False,True,False,True
+None,2015-03-18 14:08:32.625317,None,True,User,,True,3,None,None,10972,kqlr36a,True,False,True,False,True
+None,2015-03-19 04:33:04.235207,None,True,User,"Business of Science,Global Change,Information Systems",True,7,None,None,10973,loudsavlon,True,False,True,False,True
+None,2015-03-20 01:27:30.157300,None,False,User,,True,1,None,None,10974,tonisaurus,False,False,False,False,False

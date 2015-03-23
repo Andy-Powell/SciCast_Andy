@@ -151,6 +151,9 @@ drq <- as.double(raq-caq)
 hist(drq) 										# Range of questions' duration
 
 ########## Removing forecasts that occurred after resolution was known (Analysis_setup).
+startTat <- Sys.time()
+print("tat removal started")
+
 for (t in 1:length(tat)) {           # for all tardes....
  if (tat[t]>raq[qiq==qit[t]]) {      # if traded_at > pending_until...   #####is pending_until correct vice resolved_at?
   tat[t] <- NA                       # NA subistuted for traded_at 
@@ -161,6 +164,10 @@ good <- complete.cases(tat)          # remove all trades with trades later than 
 sum(!good)
 tat<-tat[good]; tit<-tit[good];pit<-pit[good]; qit<-qit[good]; nvt<-nvt[good]; ovt<-ovt[good]; ast<-ast[good]; apot<-apot[good]
 cit<-cit[good]; rst<-rst[good]; mdt<-mdt[good]
+
+duration <- as.double(difftime(Sys.time(),startTat,units="sec"))   #reports time to retrieve files
+print(c("tat removal complete", duration))
+
 
 
 ########## generates list of condional assumption questions (asqt) and options (asot), -1 indicates in either indicades non-conditional trade (Analysis_setup)

@@ -1,5 +1,8 @@
 ############################################################
 #
+#  Generates Brier score for all five types of questions
+#  USed only for quesions wiht 2 or more trades
+#  needs rsqNorm, tme, qiq, clq, tmp1, ovt, nvt, 
 #
 #
 ###########################################################
