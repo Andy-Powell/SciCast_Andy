@@ -5,7 +5,8 @@
 ## Some had failed to carry forward; this seems to have been the main source of
 ## the discrepancy between our previous scores and Steve's.
 
-# setwd("C:/Users/Walter/Documents/GMU/SciCast/Analysis")
+# setwd("C:/Users/Walter/Documents/GitHub/SciCast_Andy/SciCast_Andy")
+# source("Accuracy and Uniform 150304B  Reset.R")
 #
 # First run Get_Data.R.
 #source("Get_Data_150203lb.R")
@@ -362,7 +363,7 @@ dev.off()
 
 #### Brier vs Uniform plot  ####
 #### Needs all data  ####
-png("SciCast Accuracy vs Uniform.png", width = 7200, height = 3600, pointsize = 18, res = 360)
+png("SciCast Accuracy vs Uniform.png", width = 3600, height = 3600, pointsize = 18, res = 360)
 one <- acqu
 two <- acun
 #count <- matrix(c(one$counts,two$counts), nrow=2,byrow=T)
@@ -370,8 +371,10 @@ two <- acun
 #rownames(count) <- c("Brier", "Uniform")
 #count <- as.table(count)
 ##count <- table(one$counts,two$counts)
-abp = plot(one,two,xlab="Brier Score",
-              ylab="Uniform Score",cex.main=1,main=paste("Accuracy, All Questions ",expStart," to ",trunc(expStop-24*60*60,"days"),sep=""))
+#abp = plot(one,two,xlab="Brier Score", ylab="Uniform Brier Score",cex.main=1,main=paste("Accuracy, All Questions ",expStart," to ",trunc(expStop-24*60*60,"days"),sep=""))
+abp = plot(two,one,ylab="Market Brier Score",xlab="Uniform Brier Score",xlim=c(0,2),ylim=c(0,2),cex.main=1,
+           main=paste("Accuracy, All Questions ",expStart," to ",trunc(expStop-24*60*60,"days"),sep=""))
+abline(a=0,b=1)
 #mtext(paste("Uniform Forecasts, mean = ",round(acunm,3),sep=""),col=rgb(0,0,1,0.6), outer=T,side=3,line=-12.5,cex=0.75,font=1)
 #mtext(paste("SciCast Forecasts, mean = ",round(acqum,3),sep=""),col=rgb(1,0,0,0.6), outer=T,side=3,line=-10.5,cex=0.75,font=1)
 #mtext(paste('      Better on ',winaU,'% of questions',sep=''), outer=T,side=3,line=-4.5,cex=0.75,font=1,col=rgb(0,0,0,1))

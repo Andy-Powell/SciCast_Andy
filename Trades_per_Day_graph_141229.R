@@ -15,7 +15,7 @@ for (t in 2:length(tat)) {
 # Calculating number of trades and no-impact trades for each day
 nt <- nzt <- numeric()
 for (d in 1:max(days)) {
- nt[d] <- length(tat[tat>=tstart+(d-1)*60*60*24&tat<tstart+d*60*60*24])
+ nt[d] <- length(tat[tat>=tstart+(d-1)*60*60*24&tat<tstart+d*60*60*24])          # nt -> number trades per day
  nzt[d] <- length(tat[tat>=tstart+(d-1)*60*60*24&tat<tstart+d*60*60*24&nit==1])
 }
 

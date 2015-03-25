@@ -43,7 +43,8 @@ for (tr in 2:length(RBD$tradedAt)) {
     RBD$brierDiff[tr] <- RBD$Brier[tr]-RBD$Brier[tr-1]
 #    RBD$diffWeight[tr] <- difftime((RBD$tradedAt[tr]),(RBD$tradedAt[tr-1]),units="days")
 #    RBD$diffWeight[tr] <- as.POSIXct(RBD$tradedAt[tr])-as.POSIXct(RBD$tradedAt[tr-1])
-    RBD$diffWeight[tr] <- (as.integer(RBD$tradedAt[tr])-as.integer(RBD$tradedAt[tr-1]))/(24*60*60)
+#    RBD$diffWeight[tr] <- (as.integer(RBD$tradedAt[tr])-as.integer(RBD$tradedAt[tr-1]))/(24*60*60)
+    RBD$diffWeight[tr] <- (min(as.integer(RBD$tradedAt[tr+1],as.integer(RBD$resolvedAt)))-as.integer(RBD$tradedAt[tr]))/(24*60*60)
   } else {RBD$brierDiff[tr] <- NA}
   #print(c(tr,RBD$questionId[tr],RBD$questionId[tr-1],RBD$brierDiff[tr],RBD$diffWeight[tr]))
   print(tr)
