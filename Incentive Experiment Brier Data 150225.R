@@ -122,4 +122,4 @@ duration <- as.double(difftime(Sys.time(),startBrier,units="sec"))   #reports ti
 print("Brier data calculations Complete")
 print(duration)
 
-write.table(tradeData,file="tradeData.csv",sep=",",append=F,col.names=c("questionId","tradeId","userId","tradedAt","newValue","resolvedAt","resolveValue","Brier","set","active", "timeToRes","timeSinceActive"),row.names=F)
+#write.table(tradeData,file="tradeData.csv",sep=",",append=F,col.names=c("questionId","tradeId","userId","tradedAt","newValue","resolvedAt","resolveValue","Brier","set","active", "timeToRes","timeSinceActive"),row.names=F)
