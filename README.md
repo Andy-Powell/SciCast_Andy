@@ -14,22 +14,23 @@ The main script and support scripts that do the A/B Brier Score calculations and
    * De-Stuttering A.R
    * Incentive Accuracy Active 141209.R
    * Incentive Accuracy Control 141209B.R
+   * _#Commented Out_
+    * # ULinOP_150122C.R
 
 The main scripts and supporting scripts that generate the monthly average Brier scores by question are:
  * Incentive Experiment Trade Brier Generation 150225A.R, which calls:
     * Get_Data_150203lb.R
     * Incentive Selection 150312.R
-    * General Data Prep 150304B.R, which calls:
-      * Incentive Selection 150312.R  <** Wait, this was already called!
-    * #[commented: Incentive Overall Trade Selection 150212.R ]
     * De-Stuttering A.R
     * Incentive Experiment Brier Data 150225.R, which calls:
       * Incentive Accuracy Mechanics Basic 150221.R
-    * #[commented: Brier Score vs Choices graph 150304.R]
+    * _#Commented out:_
+      * # Incentive Overall Trade Selection 150212.R 
+      * # Brier Score vs Choices graph 150304.R
  * Monthly Time-Weighted Brier Scores by Question 150311A, which calls:
     * Get_Data_150203lb.R
     * General Data Prep 150304B.R
-      * ...
+      * Incentive Selection 150312.R
     * Incentive Accuracy Mechanics Normal 150221.R
 
 The weekly Accuracy and uniform average scores and graphs:
