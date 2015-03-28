@@ -1,6 +1,6 @@
 ######################################################
 #
-# Genrates a table with 
+# Generates a table with 
 # Based on "Incentive Experiment Brier Data 150225.R"
 #
 #
@@ -65,4 +65,4 @@ roqt <- roqat <-rep(-1,length(tat))
 
 
 
-#write.table(data.frame(rsq,ra,acqu,acop,ru,rf,rc),file="Brier Scores.csv",sep=",",append=F,col.names=c("Question_Number","Resolution_Date","SciCast_Brier_Score","ULinop_Brier_Score","Number_of_Users","Number_of_Forecasts","Number_of_Comments"),row.names=F)
+write.table(tradeData,file="tradeData.csv",sep=",",append=F,col.names=c("questionId","tradeId","userId","tradedAt","newValue","resolvedAt","resolveValue","Brier","set","active", "timeToRes","timeSinceActive"),row.names=F)
