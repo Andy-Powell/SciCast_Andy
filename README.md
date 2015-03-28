@@ -26,7 +26,7 @@ The main scripts and supporting scripts that generate the monthly average Brier 
     * Incentive Experiment Brier Data 150225.R, which calls:
       * Incentive Accuracy Mechanics Basic 150221.R
     * #[commented: Brier Score vs Choices graph 150304.R]
-  * Monthly Time-Weighted Brier Scores by Question 150311A, which calls:
+ * Monthly Time-Weighted Brier Scores by Question 150311A, which calls:
     * Get_Data_150203lb.R
     * General Data Prep 150304B.R
       * ...
