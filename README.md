@@ -15,7 +15,7 @@ The main script and support scripts that do the A/B Brier Score calculations and
    * Incentive Accuracy Active 141209.R
    * Incentive Accuracy Control 141209B.R
    * _#Commented Out_
-    * # ULinOP_150122C.R
+     * # ULinOP_150122C.R
 
 The main scripts and supporting scripts that generate the monthly average Brier scores by question are:
  * Incentive Experiment Trade Brier Generation 150225A.R, which calls:
