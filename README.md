@@ -6,13 +6,12 @@ Unfortunately, Andy has been using filenames for version-control.
 Forked the project from Andy-Powell/SciCast_Andy to start consolidating.  
 
 The main script and support scripts that do the A/B Brier Score calculations and barchart are:
-                
-                Incentive Experiment Accuracy 150210C1.R
-                Get_Data_150203lb.R
-                Incentive Selection 150312.R
-                De-Stuttering A.R
-                Incentive Accuracy Active 141209.R
-                Incentive Accuracy Control 141209B.R
+ * Incentive Experiment Accuracy 150210C1.R, which calls:
+   * Get_Data_150203lb.R
+   * Incentive Selection 150312.R
+   * De-Stuttering A.R
+   * Incentive Accuracy Active 141209.R
+   * Incentive Accuracy Control 141209B.R
 
 The main scripts and supporting scripts that generate the monthly average Brier scores by question are:
                 
