@@ -47,8 +47,8 @@ if (allData=="n") {
       expStop = as.POSIXct("2015-01-07",usetz=TRUE)
       #incentiveSet <- setBQstns
       #controlSet <- setAQstns
-      incentiveSet <- setAQstns
-      controlSet <- setBQstns
+      incentiveSet <- setBQstns
+      controlSet <- setAQstns
     } else {
       if(rawData=="3") {
         expStart <- as.POSIXct("2015-01-07")
@@ -61,8 +61,8 @@ if (allData=="n") {
           expStop = as.POSIXct("2015-03-07")
           #incentiveSet <- setBQstns
           #controlSet <- setAQstns
-          incentiveSet <- setAQstns
-          controlSet <- setBQstnsQ4
+          incentiveSet <- setBQstnsQ4
+          controlSet <- setAQstns
         } else {
           expStart <- as.POSIXct(rawData)
           print ("Enter End Date (yyyy-mm-dd)")

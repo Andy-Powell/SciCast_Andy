@@ -1,0 +1,22 @@
+
+Call:
+lm(formula = trdL10$Brier ~ trdL10$set * trdL10$active)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.29010 -0.23739 -0.11787  0.09089  1.84153 
+
+Coefficients:
+                           Estimate Std. Error t value Pr(>|t|)    
+(Intercept)                 0.19802    0.01114  17.773  < 2e-16 ***
+trdL10$setB                 0.09209    0.01182   7.789 7.06e-15 ***
+trdL10$activeY              0.08963    0.01163   7.709 1.32e-14 ***
+trdL10$setB:trdL10$activeY -0.26107    0.01500 -17.401  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.3486 on 21369 degrees of freedom
+  (34771 observations deleted due to missingness)
+Multiple R-squared:  0.01854,	Adjusted R-squared:  0.0184 
+F-statistic: 134.6 on 3 and 21369 DF,  p-value: < 2.2e-16
+

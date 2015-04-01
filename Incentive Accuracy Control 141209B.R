@@ -39,8 +39,8 @@ for (q in 1:length(rsqCon)) {
 
   ac <- acd <- act <- rep(2,lt); pocot <- hitt <- rep(0,lt)
   # Pretend the first trade came after 1 hour because we don't have a record of how long the questions were paused after being published.
-  #acd[1] <- time[1]-base -(time[1]-60*60-base)
-  acd[1] <- difftime(time[1],expStart)
+  acd[1] <- time[1]-base -(time[1]-60*60-base)
+  #acd[1] <- difftime(time[1],expStart)
   pocot[1] <- pocou[q] <- 1/length(tmp1)
 if (lt>1) {
   for (t in 1:(lt-1)) {

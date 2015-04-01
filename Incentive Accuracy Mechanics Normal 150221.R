@@ -8,9 +8,6 @@
 ###########################################################
 
 
-
-
-
 setwd("C:/Users/Walter/Documents/GitHub/SciCast_Andy/SciCast_Andy")
 
 
@@ -44,7 +41,7 @@ if (clq[qiq==rsqNorm[q]]=="ordered multinomial") {
           actt[o] <- 2*(sum(tmp2[1:o])-sum(tmp1[1:o]))^2
         }
         act[t+1] <- sum(actt)/(length(tmp1)-1)
-        #print(c("o2",tmp2, act[t+1]))
+      #print(c("o2",tmp2, act[t+1]))
         if (length(tmp1)>2) {
           pocot[t+1] <- mean(tmp2[b])
           if (mean(which(tmp2==max(tmp2)))%in%b) {hitt[t+1] <- 1}
@@ -91,9 +88,10 @@ if (clq[qiq==rsqNorm[q]]=="binary") {
       act[t+1] <- sum( (tmp2-tmp1)^2 )
       pocot[t+1] <- mean(tmp2[b])
       if (mean(which(tmp2==max(tmp2)))%in%b) {hitt[t+1] <- 1}
+      #print(c("b1",act[t+1],tmp1,tmp2))
     }
   }
- # print (c("binary",tmp1,"-", act[t]))
+  #print (c("binary",tmp1,"-", act[t]))
 }
 
 if (clq[qiq==rsqNorm[q]]=="scaled") {

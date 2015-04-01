@@ -27,7 +27,7 @@ rsqAct <- rsq[which(rsq%in%incentiveSet)]
 acqu <- acun <- acop <- nfqu <- acquAct <- rep(2,length(rsqAct)); pocosAct <- pocou <- pocoop <- hitAct <- hitop <- rep(0,length(rsqAct)); ra <- rep(tstart,length(rsqAct))#; ra <- rep(as.POSIXct("2013-11-25 00:00:00 EST"),length(rsqAct))
  base <- tstart-28*24*60*60
 for (q in 1:length(rsqAct)) {
-#for (q in 36:36) {
+#for (q in 1:1) {
   ra[q] <- raq[qiq==rsqAct[q]]
 # Uses as question start date the first day on which there  was a valid safe mode forecast placed!
   #astart <- min(tat[qit==rsqAct[q] &mdt==1 &asqt<0])
@@ -39,8 +39,8 @@ for (q in 1:length(rsqAct)) {
   tmp1 <- as.double(strsplit(strsplit(strsplit(as.character(rvq[qiq==rsqAct[q]]),"[",fixed=T)[[1]][2],"]",fixed=T)[[1]],",")[[1]])
   ac <- acd <- act <- rep(2,lt); pocot <- hitt <- rep(0,lt)
 # Pretend the first trade came after 1 hour because we don't have a record of how long the questions were paused after being published.
-  #acd[1] <- time[1]-base -(time[1]-60*60-base)
-  acd[1] <- difftime(time[1],expStart)
+  acd[1] <- time[1]-base -(time[1]-60*60-base)
+  #acd[1] <- difftime(time[1],expStart)
   pocot[1] <- pocou[q] <- 1/length(tmp1)
 
 if (lt>1) {

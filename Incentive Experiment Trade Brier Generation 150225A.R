@@ -9,7 +9,7 @@
 # setwd("C:/Users/Walter/Documents/GMU/SciCast/Analysis")
 # First run Get_Data.R.
 source("Get_Data_150203lb.R")
-source("Incentive Selection 150312.R")
+#source("Incentive Selection 150312.R")
 
 # Removing admin accounts and activity (Data_cleaning)
 # Match to Steve's list!

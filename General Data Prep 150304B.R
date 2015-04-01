@@ -1,9 +1,9 @@
-## SciCast Brier Scores
-## Imitation of Stratman's method for binary questions
-## 
-## Modified 2014-12-22 by kolson to fix a bug in carrying forward old estimates:
-## Some had failed to carry forward; this seems to have been the main source of
-## the discrepancy between our previous scores and Steve's.
+#########################################################################
+# 
+# General data Prep
+# consilidates most of data prep that doesn't require rsq (aplicable question list)
+#
+#############################################################################
 
 # setwd("C:/Users/Walter/Documents/GitHub/SciCast_Andy/SciCast_Andy")
 #
@@ -14,8 +14,6 @@ print("Data Generation started")
 
 tstart <- as.POSIXct("2013-11-25 00:00:00 EST")
 base <- tstart-28*24*60*60
-# For Steve Stratman
-#tstop <- as.POSIXct("2014-11-30 00:00:00 EST")
 tstop <- Sys.time()
 days <- seq(1,ceiling(as.double(tstop - tstart)),1)
 
@@ -218,12 +216,12 @@ roqt <- roqat <-rep(-1,length(tat))
 
 ######## 
 # Cleaning up question groups - creating vectors of groups for each user (Data_Cleaning)
-wtg <- rep(0,length(qiq))
+#wtg <- rep(0,length(qiq))
 gq <- array(numeric(), c(length(qiq),200))                         #### WHy not a matrix  ####
 for (j in 1:length(qiq)) {                                         # For all questions
  if(grq[j]!="") {                                                  # If there are any groups.....
   temp <- levels(factor(strsplit(as.character(grq[j]),",")[[1]]))  # generate a vector of groups for each user  #### Same as above ###
-  wtg[j]<- 1/length(temp)                                          # weight is inversly proportinal to number fo groups
+#  wtg[j]<- 1/length(temp)                                          # weight is inversly proportinal to number fo groups
   gq[j,1:(length(temp))] <- temp                                   # putting the vector into array gq           #### WHy is gq different from gpq                   
  }
 }

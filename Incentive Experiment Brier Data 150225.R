@@ -20,13 +20,14 @@ expChange3 <- as.POSIXct("2015-02-07")
 expStop <- as.POSIXct("2015-03-07")
 
 
-tatData<-tat; titData<-tit; pitData<-pit; qitData<-qit; nvtData<-nvt; qiqData<-qiq; rvqData<-rvq; raqData<-raq; clqData <- clq; rsqData <- rsq
+tatData<-tat; titData<-tit; pitData<-pit; qitData<-qit; nvtData<-nvt; ovtData<-ovt; qiqData<-qiq; rvqData<-rvq; raqData<-raq; clqData <- clq; rsqData <- rsq
 
 thQuestionId <- as.integer(rep(NA,length(tatData)))
 tradeId  <- as.integer(rep(NA,length(tatData)))
 thUserId <- as.integer(rep(NA,length(tatData)))
 tradedAt <- as.POSIXct(rep(NA,length(tatData)))
 newValue <- as.character(rep(NA,length(tatData)))
+oldValue <- as.character(rep(NA,length(tatData)))
 thBrier <- as.numeric(rep(2,length(tatData)))
 thResolvedAt <- as.POSIXct(rep(NA,length(tatData)))
 thResolveValue <- as.character(rep(NA,length(tatData)))
@@ -44,7 +45,7 @@ qnResolvedAt <- as.POSIXct(rep(NA,length(qiqData)))
 qnResolveValue <- as.character(rep(NA,length(qiqData)))
 qnClass <- as.character(rep(NA,length(qiqData)))
 
-tradeData <- data.frame(thQuestionId,tradeId,thUserId,tradedAt,newValue,thResolvedAt,thResolveValue,thBrier,Set,Active,stringsAsFactors=FALSE)
+tradeData <- data.frame(thQuestionId,tradeId,thUserId,tradedAt,newValue,oldValue,thResolvedAt,thResolveValue,thBrier,Set,Active,stringsAsFactors=FALSE)
 questionData <- data.frame(qnQuestionId,qnResolvedAt,qnResolveValue,qnClass,stringsAsFactors=FALSE)
   
 tradeData$thQuestionId <- qitData
@@ -52,6 +53,7 @@ tradeData$tradeId <- titData
 tradeData$thUserId <- pitData
 tradeData$tradedAt <- tatData
 tradeData$newValue <- as.character(nvtData)
+tradeData$oldValue <- as.character(ovtData)
 
 questionData$qnQuestionId <- qiqData
 questionData$qnResolvedAt <- raqData
@@ -122,4 +124,4 @@ duration <- as.double(difftime(Sys.time(),startBrier,units="sec"))   #reports ti
 print("Brier data calculations Complete")
 print(duration)
 
-#write.table(tradeData,file="tradeData.csv",sep=",",append=F,col.names=c("questionId","tradeId","userId","tradedAt","newValue","resolvedAt","resolveValue","Brier","set","active", "timeToRes","timeSinceActive"),row.names=F)
+#write.table(tradeData,file="tradeData.csv",sep=",",append=F,col.names=c("questionId","tradeId","userId","tradedAt","newValue","oldValue,"resolvedAt","resolveValue","Brier","set","active", "timeToRes","timeSinceActive"),row.names=F)

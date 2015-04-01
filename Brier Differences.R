@@ -7,6 +7,9 @@
 # setwd("C:/Users/Walter/Documents/GitHub/SciCast_Andy/SciCast_Andy")
 # source("Brier Differences.R")
 
+startDiff <- Sys.time()
+print("Data formating started")
+
 RBD <- read.csv("tradeData.csv")    #RBD => raw brier data
 RBD$tradedAt <- as.POSIXct(RBD$tradedAt)
 RBD$set <- as.character(RBD$set)
@@ -78,7 +81,7 @@ if (RBD$tradedAt[tr]>=expFirst &RBD$tradedAt[tr]<expChange1) {
                           RBD$firstActive[tr] <- "NA"
                           }
 
-
+### calcuating Sum_v(log(p_v))
 
 
 
@@ -86,7 +89,12 @@ if (RBD$tradedAt[tr]>=expFirst &RBD$tradedAt[tr]<expChange1) {
 }
 
 write.table(RBD,file="Trade Regression Data.csv",sep=",",append=F,col.names=colnames(RBD),row.names=F)
+write.table(RBD,file="C://Users//Walter//Documents//GitHub//SciCast_Andy//Data//Trade Regression Data.csv",sep=",",append=F,col.names=colnames(RBD),row.names=F)
 
 RBD <- RBD[!is.na(RBD$Brier),]
 
 write.table(RBD,file="Trade Regression Data (clean).csv",sep=",",append=F,col.names=colnames(RBD),row.names=F)
+write.table(RBD,file="C://Users//Walter//Documents//GitHub//SciCast_Andy//Data//Trade Regression Data (clean).csv",sep=",",append=F,col.names=colnames(RBD),row.names=F)
+
+durationData <- as.double(difftime(Sys.time(),startDiff,units="sec"))   #reports time to retrieve files
+print (c("Data Generation Complete", durationData))

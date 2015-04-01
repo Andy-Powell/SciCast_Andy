@@ -57,7 +57,7 @@ tat4<-tat; tit4<-tit; pit4<-pit; qit4<-qit; nvt4<-nvt; ovt4<-ovt; ast4<-ast; apo
 cit4<-cit; rst4<-rst; mdt4<-mdt; #asqt4<-asqt; asot4<-asot
 
 
-source("Incentive Experiment Brier Data 150225.R")    # Generates data.frame, tradeData w/ Brier Scores for each trade
+source("Trade Brier Data 150225.R")    # Generates data.frame, tradeData w/ Brier Scores for each trade
 
 #source("Brier Score vs Choices graph 150304.R")
 
@@ -65,4 +65,4 @@ roqt <- roqat <-rep(-1,length(tat))
 
 
 
-write.table(tradeData,file="tradeData.csv",sep=",",append=F,col.names=c("questionId","tradeId","userId","tradedAt","newValue","resolvedAt","resolveValue","Brier","set","active", "timeToRes","timeSinceActive"),row.names=F)
+write.table(tradeData,file="tradeData.csv",sep=",",append=F,col.names=c("questionId","tradeId","userId","tradedAt","newValue","oldValue","resolvedAt","resolveValue","Brier","set","active", "timeToRes","timeSinceActive"),row.names=F)
